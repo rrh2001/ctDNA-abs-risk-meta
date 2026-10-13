@@ -1,0 +1,22 @@
+suppressPackageStartupMessages({library(shiny); library(readr); library(dplyr); library(ggplot2)})
+e <- new.env(parent = globalenv())
+suppressMessages(source("app.R", local = e))
+shiny::testServer(e$server, {
+  session$setInputs(setting = "Non-metastatic CRC", window = "postopMRD",
+                    status = 1, horizon = 12)
+  session$flushReact()
+  cat("MRD postopMRD pos12 ->", output$cir_sel, "|", output$ci_sel, "\n")
+  session$setInputs(status = 0)
+  session$flushReact()
+  cat("MRD postopMRD neg12 ->", output$cir_sel, "\n")
+  session$setInputs(setting = "Resectable colorectal liver metastases",
+                    window = "preop", status = 1, horizon = 24)
+  session$flushReact()
+  cat("CRLM preop pos24 ->", output$cir_sel, "\n")
+  session$setInputs(window = "postopMRD", status = 1, horizon = 12)
+  session$flushReact()
+  cat("CRLM postopMRD pos12 ->", output$cir_sel, "\n")
+  g <- session$getOutput("curve_plot")
+  cat("plot output resolved:", !is.null(g), "\n")
+  cat("SERVER LOGIC TEST OK\n")
+})

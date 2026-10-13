@@ -1,0 +1,33 @@
+# --- Third-party patient-level data (published appendix IPD; NOT redistributed)
+ipd_clean_*.csv
+85_Li2022.tsv
+24_Ogaard2022.tsv
+real_IPD/
+**/real_IPD/
+
+# --- Large raw simulation grids (reproducible from seed; on Zenodo / request)
+M4_all_iterations.csv
+M4b_empirical_all.csv
+*_chunk*.csv
+
+# --- Original master extraction workbook (Chinese; not redistributed)
+全表.xlsx
+*.xlsx.orig
+
+# --- R
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+*.Rproj.user/
+
+# --- Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak

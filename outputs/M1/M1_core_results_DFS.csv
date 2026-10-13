@@ -1,0 +1,12 @@
+﻿scenario,window,timepoint_months,k_studies,positive_CIR,negative_CIR,risk_difference,RR,I2_positive
+LARC,postop_MRD_window_4to12wk,12,4,38% (18-64),1% (0-16),46pp (32~61),21.4 (9.1-50.0),81%
+LARC,postop_MRD_window_4to12wk,24,4,49% (27-71),11% (8-15),50pp (35~65),5.8 (3.7-8.9),75%
+non_metastatic_postop_MRD,postop_MRD_window_4to12wk,12,5,44% (26-64),5% (3-8),40pp (23~57),9.1 (6.1-13.5),88%
+non_metastatic_postop_MRD,postop_MRD_window_4to12wk,24,3,53% (13-90),10% (7-15),47pp (6~88),6.7 (2.9-15.7),93%
+non_metastatic_postop_MRD,post_adjuvant_systemic,12,3,62% (39-81),5% (1-16),56pp (42~70),11.1 (4.4-27.8),64%
+resectable_CRLM,preop_baseline,12,4,59% (50-67),48% (42-55),13pp (-0~25),1.2 (1.0-1.6),0%
+resectable_CRLM,preop_baseline,24,4,79% (70-85),68% (61-74),10pp (-1~21),1.1 (1.0-1.3),0%
+resectable_CRLM,postop_MRD_window_4to12wk,12,8,70% (58-79),26% (18-37),43pp (34~53),2.6 (1.8-3.8),64%
+resectable_CRLM,postop_MRD_window_4to12wk,24,5,89% (79-95),41% (29-55),59pp (50~67),3.0 (2.1-4.3),43%
+resectable_CRLM,postop_MRD_window_4to12wk,36,4,89% (77-95),49% (35-63),50pp (39~61),2.3 (1.6-3.4),34%
+resectable_CRLM,post_adjuvant_systemic,12,3,81% (66-90),20% (11-34),61pp (49~72),3.6 (2.5-5.3),33%

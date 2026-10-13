@@ -1,0 +1,13 @@
+﻿ctdna,tp,observed,dataset,mapped,predicted,pred_lo,pred_hi,abs_diff
+0,12,0.0621123149450002,Li2022_postchemo_stageIII,MRD postACT,0.0472177305647406,0.0123332956914904,0.1643528033033611,0.0148945843802595
+0,24,0.2265584791521434,Li2022_postchemo_stageIII,MRD postACT,,,,
+1,12,0.4545454545454546,Li2022_postchemo_stageIII,MRD postACT,0.6224947824081352,0.3896305577112311,0.809870221063324,0.1679493278626805
+1,24,0.5454545454545454,Li2022_postchemo_stageIII,MRD postACT,,,,
+0,12,0.1851851851851852,Ogaard2022_L1_postOP_mCRC,advanced_anchor_excluded_from_pool,,,,
+0,24,0.3333333333333333,Ogaard2022_L1_postOP_mCRC,advanced_anchor_excluded_from_pool,,,,
+1,12,0.6030687830687829,Ogaard2022_L1_postOP_mCRC,advanced_anchor_excluded_from_pool,,,,
+1,24,0.9278306878306878,Ogaard2022_L1_postOP_mCRC,advanced_anchor_excluded_from_pool,,,,
+0,12,0.36,Ogaard2022_L3_postACT_mCRC,advanced_anchor_excluded_from_pool,,,,
+0,24,0.8,Ogaard2022_L3_postACT_mCRC,advanced_anchor_excluded_from_pool,,,,
+1,12,0.5833333333333335,Ogaard2022_L3_postACT_mCRC,advanced_anchor_excluded_from_pool,,,,
+1,24,0.8333333333333334,Ogaard2022_L3_postACT_mCRC,advanced_anchor_excluded_from_pool,,,,

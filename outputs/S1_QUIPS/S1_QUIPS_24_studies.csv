@@ -1,0 +1,25 @@
+﻿study_id,first_author,year,D1_study_participation,D2_study_attrition,D3_prognostic_factor_measurement,D4_outcome_measurement,D5_study_confounding,D6_statistical_analysis_reporting,overall_risk_of_bias,primary_positive_stratum_events,smallest_positive_stratum_events,median_followup_months,preliminary_rating_basis
+1,Tie J,2016,Low,Low,Low,Low,Moderate,Moderate,Moderate,11,11,27.0,adequate follow-up and event count; rule-based preliminary rating
+3,Kotani D,2023,Low,Moderate,Low,Low,Moderate,Low,Moderate,207,26,16.7,adequate follow-up and event count; rule-based preliminary rating
+4,Mo S,2023,Low,Moderate,Low,Low,Moderate,Low,Moderate,43,12,21.0,adequate follow-up and event count; rule-based preliminary rating
+5,Wang Y,2021,Moderate,Moderate,Low,Low,Moderate,Low,Moderate,21,21,,single-center
+6,Akiyoshi T,2025,Low,Moderate,Low,Low,Moderate,High,High,7,7,16.0,few ctDNA-positive events in primary analysis (7); a thin secondary landmark (<10 events) exists but is not pooled
+13,Li Y,2024,Moderate,Low,Low,Low,Moderate,Low,Moderate,32,22,31.3,single-center
+14,Slater S,2024,Low,Low,Low,Low,Moderate,Moderate,Moderate,10,7,30.3,a thin secondary landmark (<10 events) exists but is not pooled
+15,Tie J,2021,Low,Low,Low,Low,Moderate,Moderate,Moderate,14,7,50.5,a thin secondary landmark (<10 events) exists but is not pooled
+18,Raunkilde L,2025,Moderate,Low,Low,Low,Moderate,Low,Moderate,26,16,45.9,single-center
+19,Benhaim L,2021,Low,Moderate,Low,Low,Moderate,Moderate,Moderate,19,7,,a thin secondary landmark (<10 events) exists but is not pooled
+21,Rubio-Alarcon C,2026,Low,Low,Low,Low,Moderate,Moderate,Moderate,17,14,40.0,adequate follow-up and event count; rule-based preliminary rating
+24,Ogaard N,2022,Moderate,Moderate,Low,Low,Moderate,Low,Moderate,46,10,20.3,single-center
+27,Newhook TE,2023,Moderate,Low,Low,Low,Moderate,Low,Moderate,24,11,56.0,single-center
+30,Zhou J,2025,Low,Low,Low,Low,Moderate,Moderate,Moderate,15,3,53.0,a thin secondary landmark (<10 events) exists but is not pooled
+37,Li P,2026,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,38,5,,single-center; design not clearly prospective in extracted data; a thin secondary landmark (<10 events) exists but is not pooled
+40,Lauridsen ED,2026,Moderate,Low,Low,Low,Moderate,High,High,6,1,60.0,few ctDNA-positive events in primary analysis (6); single-center; a thin secondary landmark (<10 events) exists but is not pooled
+48,Reinert T,2022,Moderate,Moderate,Low,Low,Moderate,Low,Moderate,39,39,,single-center
+49,Scholer LV,2017,Moderate,Low,Low,Low,Moderate,Low,Moderate,32,5,36.0,single-center; a thin secondary landmark (<10 events) exists but is not pooled
+50,Lygre KB,2024,Low,High,Low,Low,Moderate,High,High,7,7,4.4,short median follow-up (<12 mo); few ctDNA-positive events in primary analysis (7); a thin secondary landmark (<10 events) exists but is not pooled
+54,Chen G,2021,Low,Low,Low,Low,Moderate,Low,Low,30,9,27.4,a thin secondary landmark (<10 events) exists but is not pooled
+56,Evrard C,2025,Moderate,Moderate,Low,Low,Moderate,Moderate,Moderate,11,11,,single-center
+57,Tie J,2019,Low,Low,Low,Low,Moderate,Low,Low,23,6,24.0,a thin secondary landmark (<10 events) exists but is not pooled
+66,Wullaert L,2026,Low,Moderate,Low,Low,Moderate,Low,Moderate,27,15,,adequate follow-up and event count; rule-based preliminary rating
+76,Loupakis F,2021,Moderate,Moderate,Moderate,Moderate,Moderate,Low,Moderate,29,19,,single-center; design not clearly prospective in extracted data

@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, data or calculator, please cite the manuscript and this archive."
+title: "Time-resolved absolute recurrence risk of ctDNA across the colorectal cancer course: a reconstructed individual-participant-data meta-analysis with an open web-based risk calculator"
+type: software
+authors:
+  - family-names: Ren
+    given-names: Ruhua
+    affiliation: "Department of Oncology, Guang'anmen Hospital, China Academy of Chinese Medical Sciences"
+  - family-names: Gao
+    given-names: Ruike
+    affiliation: "Department of Oncology, Guang'anmen Hospital, China Academy of Chinese Medical Sciences"
+  - family-names: Li
+    given-names: Jie
+    affiliation: "Department of Oncology, Guang'anmen Hospital, China Academy of Chinese Medical Sciences"
+keywords:
+  - circulating tumor DNA
+  - colorectal cancer
+  - minimal residual disease
+  - absolute risk
+  - reconstructed individual participant data
+  - Kaplan-Meier digitization
+  - meta-analysis
+  - risk calculator
+license: MIT
+version: 1.0.0
+date-released: 2026-10-13
+repository-code: "https://github.com/renruhua/ctdna-abs-risk-meta"
+url: "https://renruhua.shinyapps.io/ctDNA_risk_calculator/"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.ZENODO_DOI"
+    description: "ZENODO_DOI: replace with the DOI minted after the first GitHub release (Zenodo GitHub integration)."

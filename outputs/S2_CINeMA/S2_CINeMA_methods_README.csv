@@ -1,0 +1,5 @@
+﻿item,value
+framework,CINeMA (Confidence in Network Meta-Analysis) applied to pairwise/independent absolute-risk outcomes; incoherence domain is not applicable (no network).
+domains,"within-study bias (S1 QUIPS), reporting bias (Egger), heterogeneity (I2/tau2), indirectness, imprecision (prediction interval, events), incoherence (N/A)."
+interpretation,"Low overall confidence reflects genuine between-study heterogeneity and small positive strata, which the paper explicitly quantifies via prediction intervals; this is a finding, not a methodological failure. Calculators should present prediction-interval uncertainty."
+required_before_submission,"Reconcile with the dual-reviewer S1 QUIPS ratings; if downgrading changes, update the within-study-bias domain and overall confidence."

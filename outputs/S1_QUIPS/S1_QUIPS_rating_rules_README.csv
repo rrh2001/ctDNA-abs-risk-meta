@@ -1,0 +1,12 @@
+﻿item,value
+instrument,"QUIPS (Quality in Prognosis Studies), 6 bias domains (Hayden et al. 2013)"
+rating_scale,Low / Moderate / High risk of bias
+status,"PRELIMINARY rule-based ratings from objectively extracted design features (prospective, multicenter, follow-up, event counts). NOT a substitute for full-text dual assessment."
+required_before_submission,Two reviewers must independently re-rate every domain against each full text; disagreements resolved with a third reviewer; report weighted Cohen's kappa for inter-rater agreement.
+D1_rule,Low if prospective + multicenter; otherwise Moderate.
+D2_rule,Low if median follow-up >=24 mo; High if <12 mo; else Moderate.
+D3_rule,Low if prospective prespecified ctDNA sampling; Moderate if retrospective/undefined timing.
+D4_rule,Low if objective imaging/pathology endpoint with blinded ctDNA readout (prospective); else Moderate.
+D5_rule,Moderate for all (ctDNA strata non-randomised; residual stage/treatment confounding).
+D6_rule,Low if the PRIMARY-analysis (largest) positive-stratum event count >=20; Moderate if 10-19; High if <10. Thin secondary landmarks are recorded separately and are not pooled.
+overall_rule,High if any domain High; Moderate if >=2 domains Moderate; else Low.
