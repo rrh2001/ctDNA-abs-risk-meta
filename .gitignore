@@ -31,3 +31,33 @@ __pycache__/
 Thumbs.db
 *.tmp
 *.bak
+
+# --- Run logs and ad-hoc scratch dumps (local debugging only) ---
+*.log
+R/debug_*.R
+/audit3.txt
+/cin.txt
+/cols.txt
+/egger.txt
+/emt.txt
+/fsd.txt
+/hr_cols.txt
+/hrstat.txt
+/loodfs.txt
+/loomax.txt
+/m1c.txt
+/metareg.txt
+/mrd4.txt
+/mrd5.txt
+/rd6.txt
+/sums.txt
+/sums2.txt
+/sums3.txt
+/table2_p.txt
+/three3.txt
+/three_check.txt
+/three_sens.txt
+
+# --- Pre-redigitization snapshots (superseded by current outputs; kept locally) ---
+data/meta/backup_redigitize/
+outputs/M1/backup_redigitize/

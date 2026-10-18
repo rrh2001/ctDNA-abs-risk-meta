@@ -1,4 +1,4 @@
-﻿KMID,curve,grp,time,nrisk
+KMID,curve,grp,time,nrisk
 1-KM2A,1,ctDNA_negative,0.0,164.0
 1-KM2A,1,ctDNA_negative,12.0,134.0
 1-KM2A,1,ctDNA_negative,24.0,84.0
@@ -9,242 +9,6 @@
 1-KM2A,2,ctDNA_positive,24.0,0.0
 1-KM2A,2,ctDNA_positive,36.0,0.0
 1-KM2A,2,ctDNA_positive,48.0,0.0
-3-KM2A,1,ctDNA_negative,0.0,852.0
-3-KM2A,1,ctDNA_negative,6.0,819.0
-3-KM2A,1,ctDNA_negative,12.0,781.0
-3-KM2A,1,ctDNA_negative,18.0,347.0
-3-KM2A,1,ctDNA_negative,24.0,5.0
-3-KM2A,2,ctDNA_positive,0.0,187.0
-3-KM2A,2,ctDNA_positive,6.0,104.0
-3-KM2A,2,ctDNA_positive,12.0,76.0
-3-KM2A,2,ctDNA_positive,18.0,37.0
-3-KM2A,2,ctDNA_positive,24.0,0.0
-3-KM5B,2,non_clearance,0.0,29.0
-3-KM5B,2,non_clearance,6.0,17.0
-3-KM5B,2,non_clearance,12.0,6.0
-3-KM5B,2,non_clearance,18.0,0.0
-3-KM5B,2,non_clearance,24.0,0.0
-3-KM5B,1,clearance,0.0,63.0
-3-KM5B,1,clearance,6.0,63.0
-3-KM5B,1,clearance,12.0,54.0
-3-KM5B,1,clearance,18.0,30.0
-3-KM5B,1,clearance,24.0,0.0
-3-KM-S3B,1,ctDNA_negative,0.0,291.0
-3-KM-S3B,1,ctDNA_negative,6.0,284.0
-3-KM-S3B,1,ctDNA_negative,12.0,276.0
-3-KM-S3B,1,ctDNA_negative,18.0,123.0
-3-KM-S3B,1,ctDNA_negative,24.0,2.0
-3-KM-S3B,2,ctDNA_positive,0.0,24.0
-3-KM-S3B,2,ctDNA_positive,6.0,14.0
-3-KM-S3B,2,ctDNA_positive,12.0,10.0
-3-KM-S3B,2,ctDNA_positive,18.0,3.0
-3-KM-S3B,2,ctDNA_positive,24.0,0.0
-3-KM-S3C,1,ctDNA_negative,0.0,306.0
-3-KM-S3C,1,ctDNA_negative,6.0,299.0
-3-KM-S3C,1,ctDNA_negative,12.0,287.0
-3-KM-S3C,1,ctDNA_negative,18.0,126.0
-3-KM-S3C,1,ctDNA_negative,24.0,2.0
-3-KM-S3C,2,ctDNA_positive,0.0,91.0
-3-KM-S3C,2,ctDNA_positive,6.0,64.0
-3-KM-S3C,2,ctDNA_positive,12.0,47.0
-3-KM-S3C,2,ctDNA_positive,18.0,27.0
-3-KM-S3C,2,ctDNA_positive,24.0,0.0
-3-KM-S3D,1,ctDNA_negative,0.0,160.0
-3-KM-S3D,1,ctDNA_negative,6.0,141.0
-3-KM-S3D,1,ctDNA_negative,12.0,125.0
-3-KM-S3D,1,ctDNA_negative,18.0,52.0
-3-KM-S3D,1,ctDNA_negative,24.0,1.0
-3-KM-S3D,2,ctDNA_positive,0.0,70.0
-3-KM-S3D,2,ctDNA_positive,6.0,25.0
-3-KM-S3D,2,ctDNA_positive,12.0,18.0
-3-KM-S3D,2,ctDNA_positive,18.0,6.0
-3-KM-S3D,2,ctDNA_positive,24.0,0.0
-3-KM-S4,1,ctDNA_negative,0.0,89.0
-3-KM-S4,1,ctDNA_negative,6.0,80.0
-3-KM-S4,1,ctDNA_negative,12.0,72.0
-3-KM-S4,1,ctDNA_negative,18.0,36.0
-3-KM-S4,1,ctDNA_negative,24.0,1.0
-3-KM-S4,2,ctDNA_positive,0.0,934.0
-3-KM-S4,2,ctDNA_positive,6.0,828.0
-3-KM-S4,2,ctDNA_positive,12.0,770.0
-3-KM-S4,2,ctDNA_positive,18.0,342.0
-3-KM-S4,2,ctDNA_positive,24.0,4.0
-4-KM2A,1,ctDNA_negative,0.0,196.0
-4-KM2A,1,ctDNA_negative,4.0,195.0
-4-KM2A,1,ctDNA_negative,8.0,193.0
-4-KM2A,1,ctDNA_negative,12.0,185.0
-4-KM2A,1,ctDNA_negative,16.0,159.0
-4-KM2A,1,ctDNA_negative,20.0,106.0
-4-KM2A,1,ctDNA_negative,24.0,8.0
-4-KM2A,2,ctDNA_positive,0.0,59.0
-4-KM2A,2,ctDNA_positive,4.0,53.0
-4-KM2A,2,ctDNA_positive,8.0,39.0
-4-KM2A,2,ctDNA_positive,12.0,29.0
-4-KM2A,2,ctDNA_positive,16.0,24.0
-4-KM2A,2,ctDNA_positive,20.0,16.0
-4-KM2A,2,ctDNA_positive,24.0,3.0
-4-KM3A,1,ctDNA_negative,0.0,191.0
-4-KM3A,1,ctDNA_negative,4.0,191.0
-4-KM3A,1,ctDNA_negative,8.0,190.0
-4-KM3A,1,ctDNA_negative,12.0,182.0
-4-KM3A,1,ctDNA_negative,16.0,156.0
-4-KM3A,1,ctDNA_negative,20.0,106.0
-4-KM3A,1,ctDNA_negative,24.0,17.0
-4-KM3A,2,ctDNA_positive,0.0,26.0
-4-KM3A,2,ctDNA_positive,4.0,26.0
-4-KM3A,2,ctDNA_positive,8.0,20.0
-4-KM3A,2,ctDNA_positive,12.0,15.0
-4-KM3A,2,ctDNA_positive,16.0,11.0
-4-KM3A,2,ctDNA_positive,20.0,7.0
-4-KM3A,2,ctDNA_positive,24.0,1.0
-4-KM-S10A,1,ctDNA_negative,0.0,101.0
-4-KM-S10A,1,ctDNA_negative,4.0,101.0
-4-KM-S10A,1,ctDNA_negative,8.0,101.0
-4-KM-S10A,1,ctDNA_negative,12.0,95.0
-4-KM-S10A,1,ctDNA_negative,16.0,79.0
-4-KM-S10A,1,ctDNA_negative,20.0,52.0
-4-KM-S10A,1,ctDNA_negative,24.0,7.0
-4-KM-S10A,2,ctDNA_positive,0.0,27.0
-4-KM-S10A,2,ctDNA_positive,4.0,27.0
-4-KM-S10A,2,ctDNA_positive,8.0,25.0
-4-KM-S10A,2,ctDNA_positive,12.0,19.0
-4-KM-S10A,2,ctDNA_positive,16.0,15.0
-4-KM-S10A,2,ctDNA_positive,20.0,8.0
-4-KM-S10A,2,ctDNA_positive,24.0,3.0
-4-KM-S10B,1,ctDNA_negative,0.0,113.0
-4-KM-S10B,1,ctDNA_negative,4.0,113.0
-4-KM-S10B,1,ctDNA_negative,8.0,112.0
-4-KM-S10B,1,ctDNA_negative,12.0,105.0
-4-KM-S10B,1,ctDNA_negative,16.0,88.0
-4-KM-S10B,1,ctDNA_negative,20.0,56.0
-4-KM-S10B,1,ctDNA_negative,24.0,9.0
-4-KM-S10B,2,ctDNA_positive,0.0,15.0
-4-KM-S10B,2,ctDNA_positive,4.0,15.0
-4-KM-S10B,2,ctDNA_positive,8.0,14.0
-4-KM-S10B,2,ctDNA_positive,12.0,9.0
-4-KM-S10B,2,ctDNA_positive,16.0,6.0
-4-KM-S10B,2,ctDNA_positive,20.0,4.0
-4-KM-S10B,2,ctDNA_positive,24.0,1.0
-4-KM-S10C,1,ctDNA_negative,0.0,17.0
-4-KM-S10C,1,ctDNA_negative,4.0,17.0
-4-KM-S10C,1,ctDNA_negative,8.0,16.0
-4-KM-S10C,1,ctDNA_negative,12.0,14.0
-4-KM-S10C,1,ctDNA_negative,16.0,12.0
-4-KM-S10C,1,ctDNA_negative,20.0,6.0
-4-KM-S10C,1,ctDNA_negative,24.0,2.0
-4-KM-S10C,2,ctDNA_positive,0.0,10.0
-4-KM-S10C,2,ctDNA_positive,4.0,10.0
-4-KM-S10C,2,ctDNA_positive,8.0,9.0
-4-KM-S10C,2,ctDNA_positive,12.0,5.0
-4-KM-S10C,2,ctDNA_positive,16.0,3.0
-4-KM-S10C,2,ctDNA_positive,20.0,2.0
-4-KM-S10C,2,ctDNA_positive,24.0,1.0
-4-KM-S10D,1,ctDNA_negative,0.0,96.0
-4-KM-S10D,1,ctDNA_negative,4.0,96.0
-4-KM-S10D,1,ctDNA_negative,8.0,96.0
-4-KM-S10D,1,ctDNA_negative,12.0,91.0
-4-KM-S10D,1,ctDNA_negative,16.0,76.0
-4-KM-S10D,1,ctDNA_negative,20.0,50.0
-4-KM-S10D,1,ctDNA_negative,24.0,7.0
-4-KM-S10D,2,ctDNA_positive,0.0,5.0
-4-KM-S10D,2,ctDNA_positive,4.0,5.0
-4-KM-S10D,2,ctDNA_positive,8.0,5.0
-4-KM-S10D,2,ctDNA_positive,12.0,4.0
-4-KM-S10D,2,ctDNA_positive,16.0,3.0
-4-KM-S10D,2,ctDNA_positive,20.0,2.0
-4-KM-S10D,2,ctDNA_positive,24.0,0.0
-4-KM-S3B,1,ctDNA_negative,0.0,71.0
-4-KM-S3B,1,ctDNA_negative,4.0,71.0
-4-KM-S3B,1,ctDNA_negative,8.0,70.0
-4-KM-S3B,1,ctDNA_negative,12.0,67.0
-4-KM-S3B,1,ctDNA_negative,16.0,56.0
-4-KM-S3B,1,ctDNA_negative,20.0,42.0
-4-KM-S3B,1,ctDNA_negative,24.0,4.0
-4-KM-S3B,2,ctDNA_positive,0.0,13.0
-4-KM-S3B,2,ctDNA_positive,4.0,12.0
-4-KM-S3B,2,ctDNA_positive,8.0,9.0
-4-KM-S3B,2,ctDNA_positive,12.0,9.0
-4-KM-S3B,2,ctDNA_positive,16.0,8.0
-4-KM-S3B,2,ctDNA_positive,20.0,4.0
-4-KM-S3B,2,ctDNA_positive,24.0,0.0
-4-KM-S3C,1,ctDNA_negative,0.0,81.0
-4-KM-S3C,1,ctDNA_negative,4.0,80.0
-4-KM-S3C,1,ctDNA_negative,8.0,79.0
-4-KM-S3C,1,ctDNA_negative,12.0,74.0
-4-KM-S3C,1,ctDNA_negative,16.0,63.0
-4-KM-S3C,1,ctDNA_negative,20.0,40.0
-4-KM-S3C,1,ctDNA_negative,24.0,4.0
-4-KM-S3C,2,ctDNA_positive,0.0,40.0
-4-KM-S3C,2,ctDNA_positive,4.0,35.0
-4-KM-S3C,2,ctDNA_positive,8.0,25.0
-4-KM-S3C,2,ctDNA_positive,12.0,15.0
-4-KM-S3C,2,ctDNA_positive,16.0,12.0
-4-KM-S3C,2,ctDNA_positive,20.0,9.0
-4-KM-S3C,2,ctDNA_positive,24.0,3.0
-4-KM-S5A,1,ctDNA Negative,0.0,60.0
-4-KM-S5A,1,ctDNA Negative,4.0,59.0
-4-KM-S5A,1,ctDNA Negative,8.0,57.0
-4-KM-S5A,1,ctDNA Negative,12.0,56.0
-4-KM-S5A,1,ctDNA Negative,16.0,47.0
-4-KM-S5A,1,ctDNA Negative,20.0,32.0
-4-KM-S5A,1,ctDNA Negative,24.0,1.0
-4-KM-S5A,2,ctDNA Positive,0.0,27.0
-4-KM-S5A,2,ctDNA Positive,4.0,22.0
-4-KM-S5A,2,ctDNA Positive,8.0,13.0
-4-KM-S5A,2,ctDNA Positive,12.0,9.0
-4-KM-S5A,2,ctDNA Positive,16.0,8.0
-4-KM-S5A,2,ctDNA Positive,20.0,7.0
-4-KM-S5A,2,ctDNA Positive,24.0,1.0
-4-KM-S9,1,ctDNA Negative,0.0,131.0
-4-KM-S9,1,ctDNA Negative,4.0,131.0
-4-KM-S9,1,ctDNA Negative,8.0,130.0
-4-KM-S9,1,ctDNA Negative,12.0,123.0
-4-KM-S9,1,ctDNA Negative,16.0,104.0
-4-KM-S9,1,ctDNA Negative,20.0,72.0
-4-KM-S9,1,ctDNA Negative,24.0,17.0
-4-KM-S9,2,ctDNA Positive,0.0,18.0
-4-KM-S9,2,ctDNA Positive,4.0,18.0
-4-KM-S9,2,ctDNA Positive,8.0,15.0
-4-KM-S9,2,ctDNA Positive,12.0,10.0
-4-KM-S9,2,ctDNA Positive,16.0,7.0
-4-KM-S9,2,ctDNA Positive,20.0,4.0
-4-KM-S9,2,ctDNA Positive,24.0,1.0
-5-KM4A,2,non-pCR,0.0,78.0
-5-KM4A,2,non-pCR,8.22,72.0
-5-KM4A,2,non-pCR,16.43,59.0
-5-KM4A,2,non-pCR,24.65,22.0
-5-KM4A,2,non-pCR,32.86,0.0
-5-KM4A,1,pCR,0.0,41.0
-5-KM4A,1,pCR,8.22,41.0
-5-KM4A,1,pCR,16.43,35.0
-5-KM4A,1,pCR,24.65,12.0
-5-KM4A,1,pCR,32.86,0.0
-5-KM-S5C,1,PNI_(-),0.0,95.0
-5-KM-S5C,1,PNI_(-),8.22,92.0
-5-KM-S5C,1,PNI_(-),16.43,79.0
-5-KM-S5C,1,PNI_(-),24.65,27.0
-5-KM-S5C,1,PNI_(-),32.86,0.0
-5-KM-S5C,2,PNI_(+),0.0,23.0
-5-KM-S5C,2,PNI_(+),8.22,20.0
-5-KM-S5C,2,PNI_(+),16.43,14.0
-5-KM-S5C,2,PNI_(+),24.65,6.0
-5-KM-S5C,2,PNI_(+),32.86,0.0
-6-KM5A,1,ctDNA_negative,0.0,44.0
-6-KM5A,1,ctDNA_negative,10.0,34.0
-6-KM5A,1,ctDNA_negative,20.0,17.0
-6-KM5A,1,ctDNA_negative,30.0,4.0
-6-KM5A,2,ctDNA_positive,0.0,19.0
-6-KM5A,2,ctDNA_positive,10.0,11.0
-6-KM5A,2,ctDNA_positive,20.0,0.0
-6-KM5A,2,ctDNA_positive,30.0,0.0
-6-KM5B,1,ctDNA_negative,0.0,60.0
-6-KM5B,1,ctDNA_negative,10.0,44.0
-6-KM5B,1,ctDNA_negative,20.0,17.0
-6-KM5B,1,ctDNA_negative,30.0,4.0
-6-KM5B,2,ctDNA_positive,0.0,3.0
-6-KM5B,2,ctDNA_positive,10.0,1.0
-6-KM5B,2,ctDNA_positive,20.0,0.0
-6-KM5B,2,ctDNA_positive,30.0,0.0
 13-KM2A,1,ctDNA_negative,0.0,25.0
 13-KM2A,1,ctDNA_negative,6.0,24.0
 13-KM2A,1,ctDNA_negative,12.0,18.0
@@ -287,16 +51,6 @@
 13-KM2C,2,ctDNA_positive,24.0,1.0
 13-KM2C,2,ctDNA_positive,30.0,0.0
 13-KM2C,2,ctDNA_positive,36.0,0.0
-14-KM2A,2,Detected,0.0,21.0
-14-KM2A,2,Detected,6.0,18.0
-14-KM2A,2,Detected,12.0,12.0
-14-KM2A,2,Detected,18.0,9.0
-14-KM2A,2,Detected,24.0,9.0
-14-KM2A,2,Detected,30.0,7.0
-14-KM2A,2,Detected,36.0,4.0
-14-KM2A,2,Detected,42.0,1.0
-14-KM2A,2,Detected,48.0,0.0
-14-KM2A,2,Detected,54.0,0.0
 14-KM2A,1,NotDetected,0.0,122.0
 14-KM2A,1,NotDetected,6.0,121.0
 14-KM2A,1,NotDetected,12.0,112.0
@@ -307,16 +61,16 @@
 14-KM2A,1,NotDetected,42.0,9.0
 14-KM2A,1,NotDetected,48.0,5.0
 14-KM2A,1,NotDetected,54.0,1.0
-14-KM3A,2,Detected,0.0,14.0
-14-KM3A,2,Detected,6.0,10.0
-14-KM3A,2,Detected,12.0,7.0
-14-KM3A,2,Detected,18.0,7.0
-14-KM3A,2,Detected,24.0,7.0
-14-KM3A,2,Detected,30.0,6.0
-14-KM3A,2,Detected,36.0,2.0
-14-KM3A,2,Detected,42.0,1.0
-14-KM3A,2,Detected,48.0,0.0
-14-KM3A,2,Detected,54.0,0.0
+14-KM2A,2,Detected,0.0,21.0
+14-KM2A,2,Detected,6.0,18.0
+14-KM2A,2,Detected,12.0,12.0
+14-KM2A,2,Detected,18.0,9.0
+14-KM2A,2,Detected,24.0,9.0
+14-KM2A,2,Detected,30.0,7.0
+14-KM2A,2,Detected,36.0,4.0
+14-KM2A,2,Detected,42.0,1.0
+14-KM2A,2,Detected,48.0,0.0
+14-KM2A,2,Detected,54.0,0.0
 14-KM3A,1,NotDetected,0.0,102.0
 14-KM3A,1,NotDetected,6.0,100.0
 14-KM3A,1,NotDetected,12.0,88.0
@@ -327,6 +81,16 @@
 14-KM3A,1,NotDetected,42.0,7.0
 14-KM3A,1,NotDetected,48.0,3.0
 14-KM3A,1,NotDetected,54.0,0.0
+14-KM3A,2,Detected,0.0,14.0
+14-KM3A,2,Detected,6.0,10.0
+14-KM3A,2,Detected,12.0,7.0
+14-KM3A,2,Detected,18.0,7.0
+14-KM3A,2,Detected,24.0,7.0
+14-KM3A,2,Detected,30.0,6.0
+14-KM3A,2,Detected,36.0,2.0
+14-KM3A,2,Detected,42.0,1.0
+14-KM3A,2,Detected,48.0,0.0
+14-KM3A,2,Detected,54.0,0.0
 15-KM5B,1,ctDNA_negative,0.0,8.0
 15-KM5B,1,ctDNA_negative,20.0,8.0
 15-KM5B,1,ctDNA_negative,40.0,7.0
@@ -493,6 +257,18 @@
 21-KM2a,2,post_ACT_ctDNA_positive,24.0,10.0
 21-KM2a,2,post_ACT_ctDNA_positive,30.0,10.0
 21-KM2a,2,post_ACT_ctDNA_positive,36.0,9.0
+24-KM-S4,1,ctDNA_negative,0.0,14.0
+24-KM-S4,1,ctDNA_negative,10.0,8.0
+24-KM-S4,1,ctDNA_negative,20.0,5.0
+24-KM-S4,1,ctDNA_negative,30.0,3.0
+24-KM-S4,1,ctDNA_negative,40.0,1.0
+24-KM-S4,1,ctDNA_negative,50.0,0.0
+24-KM-S4,2,ctDNA_positive,0.0,34.0
+24-KM-S4,2,ctDNA_positive,10.0,4.0
+24-KM-S4,2,ctDNA_positive,20.0,1.0
+24-KM-S4,2,ctDNA_positive,30.0,0.0
+24-KM-S4,2,ctDNA_positive,40.0,0.0
+24-KM-S4,2,ctDNA_positive,50.0,0.0
 24-KM2A,1,ctDNA_negative,0.0,21.0
 24-KM2A,1,ctDNA_negative,10.0,13.0
 24-KM2A,1,ctDNA_negative,20.0,8.0
@@ -541,18 +317,6 @@
 24-KM2D,2,ctDNA_positive,30.0,0.0
 24-KM2D,2,ctDNA_positive,40.0,0.0
 24-KM2D,2,ctDNA_positive,50.0,0.0
-24-KM-S4,1,ctDNA_negative,0.0,14.0
-24-KM-S4,1,ctDNA_negative,10.0,8.0
-24-KM-S4,1,ctDNA_negative,20.0,5.0
-24-KM-S4,1,ctDNA_negative,30.0,3.0
-24-KM-S4,1,ctDNA_negative,40.0,1.0
-24-KM-S4,1,ctDNA_negative,50.0,0.0
-24-KM-S4,2,ctDNA_positive,0.0,34.0
-24-KM-S4,2,ctDNA_positive,10.0,4.0
-24-KM-S4,2,ctDNA_positive,20.0,1.0
-24-KM-S4,2,ctDNA_positive,30.0,0.0
-24-KM-S4,2,ctDNA_positive,40.0,0.0
-24-KM-S4,2,ctDNA_positive,50.0,0.0
 27-KM1A,1,ctDNA Negative,0.0,14.0
 27-KM1A,1,ctDNA Negative,12.0,9.0
 27-KM1A,1,ctDNA Negative,24.0,5.0
@@ -610,6 +374,66 @@
 27-KM1D,2,ctDNA Positive,60.0,4.0
 27-KM1D,2,ctDNA Positive,72.0,4.0
 27-KM1D,2,ctDNA Positive,84.0,1.0
+3-KM-S3B,1,ctDNA_negative,0.0,291.0
+3-KM-S3B,1,ctDNA_negative,6.0,284.0
+3-KM-S3B,1,ctDNA_negative,12.0,276.0
+3-KM-S3B,1,ctDNA_negative,18.0,123.0
+3-KM-S3B,1,ctDNA_negative,24.0,2.0
+3-KM-S3B,2,ctDNA_positive,0.0,24.0
+3-KM-S3B,2,ctDNA_positive,6.0,14.0
+3-KM-S3B,2,ctDNA_positive,12.0,10.0
+3-KM-S3B,2,ctDNA_positive,18.0,3.0
+3-KM-S3B,2,ctDNA_positive,24.0,0.0
+3-KM-S3C,1,ctDNA_negative,0.0,306.0
+3-KM-S3C,1,ctDNA_negative,6.0,299.0
+3-KM-S3C,1,ctDNA_negative,12.0,287.0
+3-KM-S3C,1,ctDNA_negative,18.0,126.0
+3-KM-S3C,1,ctDNA_negative,24.0,2.0
+3-KM-S3C,2,ctDNA_positive,0.0,91.0
+3-KM-S3C,2,ctDNA_positive,6.0,64.0
+3-KM-S3C,2,ctDNA_positive,12.0,47.0
+3-KM-S3C,2,ctDNA_positive,18.0,27.0
+3-KM-S3C,2,ctDNA_positive,24.0,0.0
+3-KM-S3D,1,ctDNA_negative,0.0,160.0
+3-KM-S3D,1,ctDNA_negative,6.0,141.0
+3-KM-S3D,1,ctDNA_negative,12.0,125.0
+3-KM-S3D,1,ctDNA_negative,18.0,52.0
+3-KM-S3D,1,ctDNA_negative,24.0,1.0
+3-KM-S3D,2,ctDNA_positive,0.0,70.0
+3-KM-S3D,2,ctDNA_positive,6.0,25.0
+3-KM-S3D,2,ctDNA_positive,12.0,18.0
+3-KM-S3D,2,ctDNA_positive,18.0,6.0
+3-KM-S3D,2,ctDNA_positive,24.0,0.0
+3-KM-S4,1,ctDNA_negative,0.0,89.0
+3-KM-S4,1,ctDNA_negative,6.0,80.0
+3-KM-S4,1,ctDNA_negative,12.0,72.0
+3-KM-S4,1,ctDNA_negative,18.0,36.0
+3-KM-S4,1,ctDNA_negative,24.0,1.0
+3-KM-S4,2,ctDNA_positive,0.0,934.0
+3-KM-S4,2,ctDNA_positive,6.0,828.0
+3-KM-S4,2,ctDNA_positive,12.0,770.0
+3-KM-S4,2,ctDNA_positive,18.0,342.0
+3-KM-S4,2,ctDNA_positive,24.0,4.0
+3-KM2A,1,ctDNA_negative,0.0,852.0
+3-KM2A,1,ctDNA_negative,6.0,819.0
+3-KM2A,1,ctDNA_negative,12.0,781.0
+3-KM2A,1,ctDNA_negative,18.0,347.0
+3-KM2A,1,ctDNA_negative,24.0,5.0
+3-KM2A,2,ctDNA_positive,0.0,187.0
+3-KM2A,2,ctDNA_positive,6.0,104.0
+3-KM2A,2,ctDNA_positive,12.0,76.0
+3-KM2A,2,ctDNA_positive,18.0,37.0
+3-KM2A,2,ctDNA_positive,24.0,0.0
+3-KM5B,1,clearance,0.0,63.0
+3-KM5B,1,clearance,6.0,63.0
+3-KM5B,1,clearance,12.0,54.0
+3-KM5B,1,clearance,18.0,30.0
+3-KM5B,1,clearance,24.0,0.0
+3-KM5B,2,non_clearance,0.0,29.0
+3-KM5B,2,non_clearance,6.0,17.0
+3-KM5B,2,non_clearance,12.0,6.0
+3-KM5B,2,non_clearance,18.0,0.0
+3-KM5B,2,non_clearance,24.0,0.0
 30-KM3e,1,≥0.5%,0.0,35.0
 30-KM3e,1,≥0.5%,12.0,27.0
 30-KM3e,1,≥0.5%,24.0,24.0
@@ -769,30 +593,146 @@
 37-KM3B,2,High,10.0,1.0
 37-KM3B,2,High,15.0,1.0
 37-KM3B,2,High,20.0,0.0
-40-KM3A,1,ctDNA_negative,0.0,34.0
-40-KM3A,1,ctDNA_negative,12.0,34.0
-40-KM3A,1,ctDNA_negative,24.0,31.0
-40-KM3A,1,ctDNA_negative,36.0,29.0
-40-KM3A,1,ctDNA_negative,48.0,26.0
-40-KM3A,1,ctDNA_negative,60.0,0.0
-40-KM3A,2,ctDNA_positive,0.0,8.0
-40-KM3A,2,ctDNA_positive,12.0,3.0
-40-KM3A,2,ctDNA_positive,24.0,3.0
-40-KM3A,2,ctDNA_positive,36.0,3.0
-40-KM3A,2,ctDNA_positive,48.0,3.0
-40-KM3A,2,ctDNA_positive,60.0,0.0
-40-KM3B,1,ctDNA_negative,0.0,35.0
-40-KM3B,1,ctDNA_negative,12.0,35.0
-40-KM3B,1,ctDNA_negative,24.0,34.0
-40-KM3B,1,ctDNA_negative,36.0,32.0
-40-KM3B,1,ctDNA_negative,48.0,29.0
-40-KM3B,1,ctDNA_negative,60.0,0.0
-40-KM3B,2,ctDNA_positive,0.0,8.0
-40-KM3B,2,ctDNA_positive,12.0,6.0
-40-KM3B,2,ctDNA_positive,24.0,6.0
-40-KM3B,2,ctDNA_positive,36.0,5.0
-40-KM3B,2,ctDNA_positive,48.0,3.0
-40-KM3B,2,ctDNA_positive,60.0,0.0
+4-KM-S10A,1,ctDNA_negative,0.0,101.0
+4-KM-S10A,1,ctDNA_negative,4.0,101.0
+4-KM-S10A,1,ctDNA_negative,8.0,101.0
+4-KM-S10A,1,ctDNA_negative,12.0,95.0
+4-KM-S10A,1,ctDNA_negative,16.0,79.0
+4-KM-S10A,1,ctDNA_negative,20.0,52.0
+4-KM-S10A,1,ctDNA_negative,24.0,7.0
+4-KM-S10A,2,ctDNA_positive,0.0,27.0
+4-KM-S10A,2,ctDNA_positive,4.0,27.0
+4-KM-S10A,2,ctDNA_positive,8.0,25.0
+4-KM-S10A,2,ctDNA_positive,12.0,19.0
+4-KM-S10A,2,ctDNA_positive,16.0,15.0
+4-KM-S10A,2,ctDNA_positive,20.0,8.0
+4-KM-S10A,2,ctDNA_positive,24.0,3.0
+4-KM-S10B,1,ctDNA_negative,0.0,113.0
+4-KM-S10B,1,ctDNA_negative,4.0,113.0
+4-KM-S10B,1,ctDNA_negative,8.0,112.0
+4-KM-S10B,1,ctDNA_negative,12.0,105.0
+4-KM-S10B,1,ctDNA_negative,16.0,88.0
+4-KM-S10B,1,ctDNA_negative,20.0,56.0
+4-KM-S10B,1,ctDNA_negative,24.0,9.0
+4-KM-S10B,2,ctDNA_positive,0.0,15.0
+4-KM-S10B,2,ctDNA_positive,4.0,15.0
+4-KM-S10B,2,ctDNA_positive,8.0,14.0
+4-KM-S10B,2,ctDNA_positive,12.0,9.0
+4-KM-S10B,2,ctDNA_positive,16.0,6.0
+4-KM-S10B,2,ctDNA_positive,20.0,4.0
+4-KM-S10B,2,ctDNA_positive,24.0,1.0
+4-KM-S10C,1,ctDNA_negative,0.0,17.0
+4-KM-S10C,1,ctDNA_negative,4.0,17.0
+4-KM-S10C,1,ctDNA_negative,8.0,16.0
+4-KM-S10C,1,ctDNA_negative,12.0,14.0
+4-KM-S10C,1,ctDNA_negative,16.0,12.0
+4-KM-S10C,1,ctDNA_negative,20.0,6.0
+4-KM-S10C,1,ctDNA_negative,24.0,2.0
+4-KM-S10C,2,ctDNA_positive,0.0,10.0
+4-KM-S10C,2,ctDNA_positive,4.0,10.0
+4-KM-S10C,2,ctDNA_positive,8.0,9.0
+4-KM-S10C,2,ctDNA_positive,12.0,5.0
+4-KM-S10C,2,ctDNA_positive,16.0,3.0
+4-KM-S10C,2,ctDNA_positive,20.0,2.0
+4-KM-S10C,2,ctDNA_positive,24.0,1.0
+4-KM-S10D,1,ctDNA_negative,0.0,96.0
+4-KM-S10D,1,ctDNA_negative,4.0,96.0
+4-KM-S10D,1,ctDNA_negative,8.0,96.0
+4-KM-S10D,1,ctDNA_negative,12.0,91.0
+4-KM-S10D,1,ctDNA_negative,16.0,76.0
+4-KM-S10D,1,ctDNA_negative,20.0,50.0
+4-KM-S10D,1,ctDNA_negative,24.0,7.0
+4-KM-S10D,2,ctDNA_positive,0.0,5.0
+4-KM-S10D,2,ctDNA_positive,4.0,5.0
+4-KM-S10D,2,ctDNA_positive,8.0,5.0
+4-KM-S10D,2,ctDNA_positive,12.0,4.0
+4-KM-S10D,2,ctDNA_positive,16.0,3.0
+4-KM-S10D,2,ctDNA_positive,20.0,2.0
+4-KM-S10D,2,ctDNA_positive,24.0,0.0
+4-KM-S3B,1,ctDNA_negative,0.0,71.0
+4-KM-S3B,1,ctDNA_negative,4.0,71.0
+4-KM-S3B,1,ctDNA_negative,8.0,70.0
+4-KM-S3B,1,ctDNA_negative,12.0,67.0
+4-KM-S3B,1,ctDNA_negative,16.0,56.0
+4-KM-S3B,1,ctDNA_negative,20.0,42.0
+4-KM-S3B,1,ctDNA_negative,24.0,4.0
+4-KM-S3B,2,ctDNA_positive,0.0,13.0
+4-KM-S3B,2,ctDNA_positive,4.0,12.0
+4-KM-S3B,2,ctDNA_positive,8.0,9.0
+4-KM-S3B,2,ctDNA_positive,12.0,9.0
+4-KM-S3B,2,ctDNA_positive,16.0,8.0
+4-KM-S3B,2,ctDNA_positive,20.0,4.0
+4-KM-S3B,2,ctDNA_positive,24.0,0.0
+4-KM-S3C,1,ctDNA_negative,0.0,81.0
+4-KM-S3C,1,ctDNA_negative,4.0,80.0
+4-KM-S3C,1,ctDNA_negative,8.0,79.0
+4-KM-S3C,1,ctDNA_negative,12.0,74.0
+4-KM-S3C,1,ctDNA_negative,16.0,63.0
+4-KM-S3C,1,ctDNA_negative,20.0,40.0
+4-KM-S3C,1,ctDNA_negative,24.0,4.0
+4-KM-S3C,2,ctDNA_positive,0.0,40.0
+4-KM-S3C,2,ctDNA_positive,4.0,35.0
+4-KM-S3C,2,ctDNA_positive,8.0,25.0
+4-KM-S3C,2,ctDNA_positive,12.0,15.0
+4-KM-S3C,2,ctDNA_positive,16.0,12.0
+4-KM-S3C,2,ctDNA_positive,20.0,9.0
+4-KM-S3C,2,ctDNA_positive,24.0,3.0
+4-KM-S5A,1,ctDNA Negative,0.0,60.0
+4-KM-S5A,1,ctDNA Negative,4.0,59.0
+4-KM-S5A,1,ctDNA Negative,8.0,57.0
+4-KM-S5A,1,ctDNA Negative,12.0,56.0
+4-KM-S5A,1,ctDNA Negative,16.0,47.0
+4-KM-S5A,1,ctDNA Negative,20.0,32.0
+4-KM-S5A,1,ctDNA Negative,24.0,1.0
+4-KM-S5A,2,ctDNA Positive,0.0,27.0
+4-KM-S5A,2,ctDNA Positive,4.0,22.0
+4-KM-S5A,2,ctDNA Positive,8.0,13.0
+4-KM-S5A,2,ctDNA Positive,12.0,9.0
+4-KM-S5A,2,ctDNA Positive,16.0,8.0
+4-KM-S5A,2,ctDNA Positive,20.0,7.0
+4-KM-S5A,2,ctDNA Positive,24.0,1.0
+4-KM-S9,1,ctDNA Negative,0.0,131.0
+4-KM-S9,1,ctDNA Negative,4.0,131.0
+4-KM-S9,1,ctDNA Negative,8.0,130.0
+4-KM-S9,1,ctDNA Negative,12.0,123.0
+4-KM-S9,1,ctDNA Negative,16.0,104.0
+4-KM-S9,1,ctDNA Negative,20.0,72.0
+4-KM-S9,1,ctDNA Negative,24.0,17.0
+4-KM-S9,2,ctDNA Positive,0.0,18.0
+4-KM-S9,2,ctDNA Positive,4.0,18.0
+4-KM-S9,2,ctDNA Positive,8.0,15.0
+4-KM-S9,2,ctDNA Positive,12.0,10.0
+4-KM-S9,2,ctDNA Positive,16.0,7.0
+4-KM-S9,2,ctDNA Positive,20.0,4.0
+4-KM-S9,2,ctDNA Positive,24.0,1.0
+4-KM2A,1,ctDNA_negative,0.0,196.0
+4-KM2A,1,ctDNA_negative,4.0,195.0
+4-KM2A,1,ctDNA_negative,8.0,193.0
+4-KM2A,1,ctDNA_negative,12.0,185.0
+4-KM2A,1,ctDNA_negative,16.0,159.0
+4-KM2A,1,ctDNA_negative,20.0,106.0
+4-KM2A,1,ctDNA_negative,24.0,8.0
+4-KM2A,2,ctDNA_positive,0.0,59.0
+4-KM2A,2,ctDNA_positive,4.0,53.0
+4-KM2A,2,ctDNA_positive,8.0,39.0
+4-KM2A,2,ctDNA_positive,12.0,29.0
+4-KM2A,2,ctDNA_positive,16.0,24.0
+4-KM2A,2,ctDNA_positive,20.0,16.0
+4-KM2A,2,ctDNA_positive,24.0,3.0
+4-KM3A,1,ctDNA_negative,0.0,191.0
+4-KM3A,1,ctDNA_negative,4.0,191.0
+4-KM3A,1,ctDNA_negative,8.0,190.0
+4-KM3A,1,ctDNA_negative,12.0,182.0
+4-KM3A,1,ctDNA_negative,16.0,156.0
+4-KM3A,1,ctDNA_negative,20.0,106.0
+4-KM3A,1,ctDNA_negative,24.0,17.0
+4-KM3A,2,ctDNA_positive,0.0,26.0
+4-KM3A,2,ctDNA_positive,4.0,26.0
+4-KM3A,2,ctDNA_positive,8.0,20.0
+4-KM3A,2,ctDNA_positive,12.0,15.0
+4-KM3A,2,ctDNA_positive,16.0,11.0
+4-KM3A,2,ctDNA_positive,20.0,7.0
+4-KM3A,2,ctDNA_positive,24.0,1.0
 40-KM-S1A,1,pre-treatment (baseline),0.0,20.0
 40-KM-S1A,1,pre-treatment (baseline),12.0,20.0
 40-KM-S1A,1,pre-treatment (baseline),24.0,20.0
@@ -829,6 +769,30 @@
 40-KM-S1C,2,preoperatively,36.0,11.0
 40-KM-S1C,2,preoperatively,48.0,9.0
 40-KM-S1C,2,preoperatively,60.0,9.0
+40-KM3A,1,ctDNA_negative,0.0,34.0
+40-KM3A,1,ctDNA_negative,12.0,34.0
+40-KM3A,1,ctDNA_negative,24.0,31.0
+40-KM3A,1,ctDNA_negative,36.0,29.0
+40-KM3A,1,ctDNA_negative,48.0,26.0
+40-KM3A,1,ctDNA_negative,60.0,0.0
+40-KM3A,2,ctDNA_positive,0.0,8.0
+40-KM3A,2,ctDNA_positive,12.0,3.0
+40-KM3A,2,ctDNA_positive,24.0,3.0
+40-KM3A,2,ctDNA_positive,36.0,3.0
+40-KM3A,2,ctDNA_positive,48.0,3.0
+40-KM3A,2,ctDNA_positive,60.0,0.0
+40-KM3B,1,ctDNA_negative,0.0,35.0
+40-KM3B,1,ctDNA_negative,12.0,35.0
+40-KM3B,1,ctDNA_negative,24.0,34.0
+40-KM3B,1,ctDNA_negative,36.0,32.0
+40-KM3B,1,ctDNA_negative,48.0,29.0
+40-KM3B,1,ctDNA_negative,60.0,0.0
+40-KM3B,2,ctDNA_positive,0.0,8.0
+40-KM3B,2,ctDNA_positive,12.0,6.0
+40-KM3B,2,ctDNA_positive,24.0,6.0
+40-KM3B,2,ctDNA_positive,36.0,5.0
+40-KM3B,2,ctDNA_positive,48.0,3.0
+40-KM3B,2,ctDNA_positive,60.0,0.0
 48-KM2A,1,ctDNA_negative,0.0,27.0
 48-KM2A,1,ctDNA_negative,10.0,17.0
 48-KM2A,1,ctDNA_negative,20.0,9.0
@@ -915,18 +879,39 @@
 49-KM2D-Meta,2,ctDNA Positive,30.0,6.0
 49-KM2D-Meta,2,ctDNA Positive,40.0,4.0
 49-KM2D-Meta,2,ctDNA Positive,50.0,0.0
-50-KM1,1,ctDNA_negative,0.0,50.0
-50-KM1,1,ctDNA_negative,12.0,44.0
+5-KM-S5C,1,PNI_(-),0.0,95.0
+5-KM-S5C,1,PNI_(-),8.22,92.0
+5-KM-S5C,1,PNI_(-),16.43,79.0
+5-KM-S5C,1,PNI_(-),24.65,27.0
+5-KM-S5C,1,PNI_(-),32.86,0.0
+5-KM-S5C,2,PNI_(+),0.0,23.0
+5-KM-S5C,2,PNI_(+),8.22,20.0
+5-KM-S5C,2,PNI_(+),16.43,14.0
+5-KM-S5C,2,PNI_(+),24.65,6.0
+5-KM-S5C,2,PNI_(+),32.86,0.0
+5-KM4A,1,pCR,0.0,41.0
+5-KM4A,1,pCR,8.22,41.0
+5-KM4A,1,pCR,16.43,35.0
+5-KM4A,1,pCR,24.65,12.0
+5-KM4A,1,pCR,32.86,0.0
+5-KM4A,2,non-pCR,0.0,78.0
+5-KM4A,2,non-pCR,8.22,72.0
+5-KM4A,2,non-pCR,16.43,59.0
+5-KM4A,2,non-pCR,24.65,22.0
+5-KM4A,2,non-pCR,32.86,0.0
+50-KM1,1,ctDNA_negative,0.0,45.0
+50-KM1,1,ctDNA_negative,12.0,43.0
 50-KM1,1,ctDNA_negative,24.0,41.0
-50-KM1,1,ctDNA_negative,36.0,39.0
-50-KM1,1,ctDNA_negative,48.0,36.0
-50-KM1,1,ctDNA_negative,60.0,15.0
-50-KM1,2,ctDNA_positive,0.0,50.0
-50-KM1,2,ctDNA_positive,12.0,43.0
-50-KM1,2,ctDNA_positive,24.0,41.0
-50-KM1,2,ctDNA_positive,36.0,37.5
-50-KM1,2,ctDNA_positive,48.0,25.5
-50-KM1,2,ctDNA_positive,60.0,8.0
+50-KM1,1,ctDNA_negative,36.0,37.0
+50-KM1,1,ctDNA_negative,48.0,25.0
+50-KM1,1,ctDNA_negative,60.0,8.0
+50-KM1,1,ctDNA_negative,63.0,0.0
+50-KM1,2,ctDNA_positive,0.0,5.0
+50-KM1,2,ctDNA_positive,12.0,0.0
+50-KM1,2,ctDNA_positive,24.0,0.0
+50-KM1,2,ctDNA_positive,36.0,0.0
+50-KM1,2,ctDNA_positive,48.0,0.0
+50-KM1,2,ctDNA_positive,60.0,0.0
 54-KM1,1,Postoperative ctDNA negative,0.0,220.0
 54-KM1,1,Postoperative ctDNA negative,6.0,220.0
 54-KM1,1,Postoperative ctDNA negative,12.0,193.0
@@ -1085,6 +1070,22 @@
 57-KM4F,2,ctDNA_positive,24.0,1.0
 57-KM4F,2,ctDNA_positive,36.0,0.0
 57-KM4F,2,ctDNA_positive,48.0,0.0
+6-KM5A,1,ctDNA_negative,0.0,44.0
+6-KM5A,1,ctDNA_negative,10.0,34.0
+6-KM5A,1,ctDNA_negative,20.0,17.0
+6-KM5A,1,ctDNA_negative,30.0,4.0
+6-KM5A,2,ctDNA_positive,0.0,19.0
+6-KM5A,2,ctDNA_positive,10.0,11.0
+6-KM5A,2,ctDNA_positive,20.0,0.0
+6-KM5A,2,ctDNA_positive,30.0,0.0
+6-KM5B,1,ctDNA_negative,0.0,60.0
+6-KM5B,1,ctDNA_negative,10.0,44.0
+6-KM5B,1,ctDNA_negative,20.0,17.0
+6-KM5B,1,ctDNA_negative,30.0,4.0
+6-KM5B,2,ctDNA_positive,0.0,3.0
+6-KM5B,2,ctDNA_positive,10.0,1.0
+6-KM5B,2,ctDNA_positive,20.0,0.0
+6-KM5B,2,ctDNA_positive,30.0,0.0
 66-KM1,1,ctDNA-low,0.0,148.0
 66-KM1,1,ctDNA-low,4.0,120.0
 66-KM1,1,ctDNA-low,8.0,87.0

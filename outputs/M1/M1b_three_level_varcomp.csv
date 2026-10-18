@@ -1,0 +1,13 @@
+scen,win,ctdna,sigma2_between,sigma2_within,k_studies
+MRD,postopMRD,0,0.1206,0.0156,5
+MRD,postopMRD,1,0.0262,0.0312,5
+MRD,postACT,0,1.1243,0,3
+MRD,postACT,1,0.3883,0,3
+LARC,postopMRD,0,0.6823,1.7749,4
+LARC,postopMRD,1,0.6096,0,4
+CRLM,preop,0,0.0238,0,4
+CRLM,preop,1,0.1916,0,4
+CRLM,postopMRD,0,0.5669,0,9
+CRLM,postopMRD,1,0.4677,0,9
+CRLM,postACT,0,0.6392,0,3
+CRLM,postACT,1,0,0.1082,3

@@ -1,8 +1,8 @@
 ﻿"kmid","study_id","scenario","landmark","endpoint","ev_est_m4","ev_layer","single_report","cmp_evt","ctdna","n0_risk","recon_N","events_guyot","events_pkg","cens_guyot","n_coord","n_nar","tmax"
-"30-KM3e",30,"LARC_neoadjuvant","L0_preop_baseline","PFS",59,"E4_>40","single_study_positive_point_or_calibration_usable",20,1,35,35,13,NA,22,29,7,63
-"30-KM3e",30,"LARC_neoadjuvant","L0_preop_baseline","PFS",59,"E4_>40","single_study_positive_point_or_calibration_usable",20,0,68,68,11,NA,57,23,6,62.82352941
-"30-KM3f",30,"LARC_neoadjuvant","L0_preop_baseline","OS",41,"E4_>40","single_study_positive_point_or_calibration_usable",NA,1,35,35,4,NA,31,19,7,28.23529412
-"30-KM3f",30,"LARC_neoadjuvant","L0_preop_baseline","OS",41,"E4_>40","single_study_positive_point_or_calibration_usable",NA,0,68,68,10,NA,58,14,7,63.83193277
+"30-KM3e",30,"LARC_neoadjuvant","L0_preop_baseline","PFS",59,"E4_>40","single_study_positive_point_or_calibration_usable",20,1,35,35,13,NA,22,15,7,72
+"30-KM3e",30,"LARC_neoadjuvant","L0_preop_baseline","PFS",59,"E4_>40","single_study_positive_point_or_calibration_usable",20,0,68,68,6,NA,62,8,6,60
+"30-KM3f",30,"LARC_neoadjuvant","L0_preop_baseline","OS",41,"E4_>40","single_study_positive_point_or_calibration_usable",NA,1,35,35,8,NA,27,10,7,72
+"30-KM3f",30,"LARC_neoadjuvant","L0_preop_baseline","OS",41,"E4_>40","single_study_positive_point_or_calibration_usable",NA,0,68,68,6,NA,62,8,7,72
 "40-KM-S1A",40,"LARC_neoadjuvant","L0_preop_baseline","OS",8,"E1_<=10","pooled_only_no_positive_point_low_weight_negative_NPV_usable",NA,1,31,31,6,NA,25,17,6,63.55441339
 "40-KM-S1A",40,"LARC_neoadjuvant","L0_preop_baseline","OS",8,"E1_<=10","pooled_only_no_positive_point_low_weight_negative_NPV_usable",NA,0,20,20,3,NA,17,10,6,63.86351144
 "40-KM-S1C",40,"LARC_neoadjuvant","L0_preop_baseline","OS",4,"E1_<=10","pooled_only_no_positive_point_low_weight_negative_NPV_usable",NA,1,14,14,4,NA,10,22,6,60.87895607
@@ -83,8 +83,8 @@
 "4-KM-S3C",4,"non_metastatic_postop_MRD","L1_early_postop_le1m","RFS",33,"E3_21-40","single_study_positive_point_or_calibration_usable",NA,0,81,81,8,NA,73,22,7,26.06016756
 "4-KM-S5A",4,"non_metastatic_postop_MRD","L1_early_postop_le1m","RFS",21,"E3_21-40","single_study_positive_point_or_calibration_usable",NA,1,27,27,20,NA,7,42,7,26.22624256
 "4-KM-S5A",4,"non_metastatic_postop_MRD","L1_early_postop_le1m","RFS",21,"E3_21-40","single_study_positive_point_or_calibration_usable",NA,0,60,60,8,NA,52,18,7,26.02264438
-"50-KM1",50,"non_metastatic_postop_MRD","L1_early_postop_le1m","RFS",41,"E4_>40","single_study_positive_point_or_calibration_usable",10,1,50,50,7,NA,43,19,6,10.41289627
-"50-KM1",50,"non_metastatic_postop_MRD","L1_early_postop_le1m","RFS",41,"E4_>40","single_study_positive_point_or_calibration_usable",10,0,50,50,4,NA,46,20,6,67.15327301
+"50-KM1",50,"non_metastatic_postop_MRD","L1_early_postop_le1m","RFS",41,"E4_>40","single_study_positive_point_or_calibration_usable",10,1,5,5,5,NA,0,7,6,12
+"50-KM1",50,"non_metastatic_postop_MRD","L1_early_postop_le1m","RFS",41,"E4_>40","single_study_positive_point_or_calibration_usable",10,0,45,45,7,NA,38,9,7,63.4
 "54-KM1",54,"non_metastatic_postop_MRD","L1_early_postop_le1m","RFS",15,"E2_11-20","pooled_only_moderate_weight_caution",32,1,20,20,12,NA,8,43,7,26.44870436
 "54-KM1",54,"non_metastatic_postop_MRD","L1_early_postop_le1m","RFS",15,"E2_11-20","pooled_only_moderate_weight_caution",32,0,220,220,21,NA,199,25,7,34.61481266
 "21-KM2a",21,"non_metastatic_postop_MRD","L3_post_adjuvant_systemic","TTR",15,"E2_11-20","pooled_only_moderate_weight_caution",47,1,24,24,14,NA,10,36,7,36.27198578

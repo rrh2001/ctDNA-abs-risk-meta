@@ -15,7 +15,11 @@ for (i in seq_len(nrow(cells))) {
   tmax<-max(g$time_month)
   at<-function(tp){ if(tp>tmax) return(NA_real_); z<-g[which.min(abs(g$time_month-tp)),]; z$CIR }
   c6<-at(6); c12<-at(12); c18<-at(18); c24<-at(24); c36<-at(36)
-  cref<-if(!is.na(c36)) c36 else c24
+  c_tmax<-g$CIR[which.max(g$time_month)]
+  # Reference burden: use 36-month CIR when the curve reaches 36 months; otherwise use the
+  # CIR at the observed end of follow-up (tmax). Using c24 when c36 is absent but tmax>24
+  # forces by24 to an artificial 100%, so c_tmax is the correct denominator.
+  cref<-if(!is.na(c36)) c36 else c_tmax
   ii<-ii+1
   res[[ii]]<-data.frame(scen_code=r$scen_code,win=r$win,endp_code=r$endp_code,ctdna=r$ctdna,
     CIR6=round(100*c6,1),CIR12=round(100*c12,1),CIR18=round(100*c18,1),

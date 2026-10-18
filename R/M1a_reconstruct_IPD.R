@@ -54,8 +54,38 @@ guyot <- function(times, surv, nr_t, nr_v) {
       d <- round(nlo * (1 - Shi / Slo)); d <- max(0, min(d, net))
       cc <- nlo - d - nhi
     }
-    if (d > 0)  ev_t  <- c(ev_t,  seq(lo, hi, length.out = d + 2)[-c(1, d + 2)])
-    if (cc > 0) cen_t <- c(cen_t, seq(lo, hi, length.out = cc + 2)[-c(1, cc + 2)])
+    if (d > 0) {
+      # Locate the d events at the actual digitized steps: spread them uniformly in the S-drop space and
+      # map each level onto the curve time, rather than uniformly in clock time (Guyot 2012). This keeps a
+      # concentrated late drop (e.g. a single large step near the start of a sparse final NAR interval) from
+      # being smeared across the interval onto ever-smaller risk sets. Event COUNT and NAR interval
+      # membership are unchanged, so endpoint CIR is identical; only the within-interval event timing improves.
+      inidx <- which(times > lo & times <= hi)
+      if (length(inidx) >= 1) {
+        tg <- times[inidx]; sg <- surv[inidx]
+        Starget <- Slo - (1:d) * (Slo - Shi) / d
+        ev_here <- vapply(Starget, function(stg) {
+          hit <- tg[sg <= stg]
+          if (length(hit)) min(hit) else hi
+        }, numeric(1))
+        ev_here <- pmin(pmax(ev_here, lo + .Machine$double.eps), hi)
+      } else {
+        ev_here <- seq(lo, hi, length.out = d + 2)[-c(1, d + 2)]
+      }
+      ev_t <- c(ev_t, ev_here)
+    }
+    if (cc > 0) {
+      # Place the interval's censoring AFTER the last event (across the remainder of the interval); when the
+      # NAR table collapses to zero at the next point, the loss is administrative censoring that manifests
+      # at that point and must not shrink the risk set before the events recorded on the curve (avoids the
+      # spurious late S drop seen in a sparse final interval). If there are no events, spread across the interval.
+      tlast_ev <- if (d > 0) max(ev_here) else lo
+      if (hi > tlast_ev + .Machine$double.eps) {
+        cen_t <- c(cen_t, seq(tlast_ev, hi, length.out = cc + 2)[-c(1, cc + 2)])
+      } else {
+        cen_t <- c(cen_t, rep(hi, cc))
+      }
+    }
   }
   target_n <- nr_v[1]                                  # those still at risk after the last risk point -> censored
   assigned <- length(ev_t) + length(cen_t)

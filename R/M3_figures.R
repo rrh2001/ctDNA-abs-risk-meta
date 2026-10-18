@@ -1,6 +1,6 @@
 # ============================================================================
 # M3_figures.R  surveillance window/interval decision figures (publication-grade, white background, English)
-#   Fig 5A non-metastatic post-op MRD +/- absolute recurrence-risk curves with the first-24-month concentration window (93% of recurrences)
+#   Fig 5A non-metastatic post-op MRD +/- absolute recurrence-risk curves with the first-24-month concentration window (96% of recurrences)
 #   Fig 5B stratified surveillance calendar (positive: every 3 months for 24 months; negative: every 6 months) with an illustrative 8.7-month lead time
 # ============================================================================
 suppressPackageStartupMessages({library(readr);library(dplyr);library(ggplot2);library(patchwork)})
@@ -23,7 +23,7 @@ pa <- ggplot(g,aes(x=time_month,y=CIR*100,color=grp,fill=grp))+
   annotate("rect",xmin=0,xmax=24,ymin=-Inf,ymax=Inf,fill="grey90",alpha=0.5)+
   geom_ribbon(aes(ymin=CIRlo*100,ymax=CIRhi*100),alpha=0.12,linewidth=0,show.legend=FALSE)+
   geom_line(linewidth=1.2)+
-  annotate("text",x=12,y=86,label="~93% of recurrences accrue\nin first 24 months (positive)",
+  annotate("text",x=12,y=86,label="~96% of recurrences accrue\nin first 24 months (positive)",
            size=3.6,hjust=0.5,color="#C0392B")+
   annotate("text",x=32,y=33,label="negative:\nsteady, low",size=3.4,hjust=0.5,color="#2C3E50")+
   scale_color_manual(values=c("ctDNA-positive"="#C0392B","ctDNA-negative"="#2C3E50"),name=NULL)+

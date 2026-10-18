@@ -40,13 +40,27 @@ for (i in seq_len(nrow(keys))) {
   sf <- survfit(Surv(time, status) ~ 1, data = dd)
   tmax <- max(dd$time)
   ss <- summary(sf, times = EVAL, extend = TRUE)
+  # Wilson interval-derived SE for the full-event boundary (x=n, S=0), where Greenwood is undefined (0/0)
+  wilson_se <- function(x, n, z = qnorm(.975)) {
+    p <- x / n; den <- 1 + z^2 / n
+    lo <- (p + z^2/(2*n) - z*sqrt(p*(1-p)/n + z^2/(4*n^2))) / den
+    up <- (p + z^2/(2*n) + z*sqrt(p*(1-p)/n + z^2/(4*n^2))) / den
+    max((up - lo)/(2*z), 1e-3)
+  }
   for (j in seq_along(EVAL)) {
-    if (EVAL[j] > tmax) next                       # insufficient follow-up, do not extrapolate
+    s_j <- ss$surv[j]; se_j <- ss$std.err[j]
+    if (EVAL[j] > tmax) {
+      # Beyond follow-up: only report if the curve has already reached S=0 (all n patients had the event),
+      # then CIR=1 deterministically; otherwise skip (no extrapolation).
+      if (min(sf$surv, na.rm = TRUE) > 0) next
+      s_j <- 0; se_j <- NA_real_
+    }
+    if (is.na(se_j) || s_j == 0) se_j <- wilson_se(sum(dd$status), nrow(dd))
     jj <- jj + 1
     ps[[jj]] <- data.frame(kmid = k$kmid, study_id = k$study_id, scen_code = k$scen_code,
       win = k$win, endp_code = k$endp_code, ctdna = k$ctdna, tp = EVAL[j],
       n = nrow(dd), events = sum(dd$status), tmax = tmax,
-      CIR = 1 - ss$surv[j], seCIR = ss$std.err[j])
+      CIR = 1 - s_j, seCIR = se_j)
   }
 }
 per <- bind_rows(ps)

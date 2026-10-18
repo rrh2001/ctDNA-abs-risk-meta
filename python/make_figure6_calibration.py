@@ -49,7 +49,7 @@ ax.set_xlabel("Predicted 12/24/36-month cumulative incidence of recurrence\n(lea
 ax.set_ylabel("Observed reconstructed cumulative incidence")
 ax.set_xticks(np.arange(0,1.01,0.2)); ax.set_yticks(np.arange(0,1.01,0.2))
 ax.set_aspect("equal")
-ax.text(0.03,0.965,"calibration slope 0.83 (95% CI 0.69–1.02)\nintercept −0.20 (95% CI −0.62 to 0.21)",
+ax.text(0.03,0.965,"calibration slope 0.90 (95% CI 0.77–1.10)\nintercept −0.16 (95% CI −0.58 to 0.23)",
         transform=ax.transAxes,va="top",ha="left",fontsize=9,
         bbox=dict(boxstyle="round,pad=0.35",fc="white",ec="0.7",lw=0.7))
 ax.legend(loc="lower right",frameon=True,framealpha=0.95,edgecolor="0.7",fontsize=8.5,
