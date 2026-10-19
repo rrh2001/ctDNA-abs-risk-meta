@@ -15,10 +15,6 @@
 40-KM3A,lo,Lauridsen ED,2026,34,13,0.004,12.0,0.01,pooled_only_no_positive_point_low_weight_negative_NPV_usable
 40-KM3B,hi,Lauridsen ED,2026,8,26,0.009,24.0,0.046,pooled_only_no_positive_point_low_weight_negative_NPV_usable
 40-KM3B,lo,Lauridsen ED,2026,35,10,0.006,12.0,0.012,pooled_only_no_positive_point_low_weight_negative_NPV_usable
-5-KM4A,hi,Wang Y,2021,78,32,0.0,8.0,0.007,single_study_positive_point_or_calibration_usable
-5-KM4A,lo,Wang Y,2021,41,13,0.0,8.0,0.011,single_study_positive_point_or_calibration_usable
-5-KM-S5C,hi,Wang Y,2021,23,25,0.006,8.0,0.024,pooled_only_no_positive_point_low_weight_negative_NPV_usable
-5-KM-S5C,lo,Wang Y,2021,95,25,0.003,8.0,0.009,pooled_only_no_positive_point_low_weight_negative_NPV_usable
 57-KM2C,hi,Tie J,2019,19,31,0.0,,0.031,pooled_only_moderate_weight_caution
 57-KM2C,lo,Tie J,2019,140,24,0.0,,0.004,pooled_only_moderate_weight_caution
 57-KM3A,hi,Tie J,2019,11,23,0.0,,0.03,pooled_only_no_positive_point_low_weight_negative_NPV_usable
@@ -191,3 +187,5 @@
 56-KM3,lo,Evrard C,2025,24,28,0.005,6.0,0.03,pooled_only_moderate_weight_caution
 56-KM4,hi,Evrard C,2025,22,37,0.0,12.0,0.024,pooled_only_moderate_weight_caution
 56-KM4,lo,Evrard C,2025,24,15,0.001,6.0,0.016,pooled_only_moderate_weight_caution
+5-KM4C,hi,Wang Y,2021,12,30,0.005,8.0,0.033,pooled_only_no_positive_point_low_weight_negative_NPV_usable
+5-KM4C,lo,Wang Y,2021,91,24,0.004,8.0,0.007,pooled_only_no_positive_point_low_weight_negative_NPV_usable

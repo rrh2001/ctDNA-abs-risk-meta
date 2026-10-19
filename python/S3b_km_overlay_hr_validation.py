@@ -2,7 +2,7 @@
 """
 S3b_km_overlay_hr_validation.py  (FINAL, full set)
 Supplementary validation of the Guyot-based IPD reconstruction, for ALL two-state
-comparisons (n=96; 192 KM arms):
+comparisons (n=95; 190 KM arms):
 
  (1) KM overlay figures (one PNG/comparison -> supplementary/figures_KM_overlay/):
      published digitized KM coordinates (open circles) vs the Kaplan-Meier curve
@@ -16,7 +16,7 @@ comparisons (n=96; 192 KM arms):
      source-reported HR, plus arm-level overlay fit and a digitisation-flag table.
 
 Reconstructed HR is UNADJUSTED; source adjusted/multivariable HRs are flagged.
-Set LIMIT=N to preview the first N comparisons; omit for all 96.
+Set LIMIT=N to preview the first N comparisons; omit for all 95.
 """
 import os, math, re
 import numpy as np
@@ -240,7 +240,7 @@ n_flag = int((af.NAR_violation > VIOL_THRESH).sum())
 n_sparse = int((af.digitization_flag == "sparse NAR / timing-only deviation").sum())
 summary = pd.DataFrame({
     "metric": ["Two-state comparisons / KM overlay figures", "KM arms plotted",
-               "Cox HR estimable on reconstructed IPD (of 96)",
+               "Cox HR estimable on reconstructed IPD (of 95)",
                "  of which stabilised with ridge fallback (penalizer=0.01)",
                "Comparisons with a numeric published HR (denominator)",
                "Published HR within reconstructed 95% CI (n)",

@@ -31,6 +31,13 @@ meta <- read_csv("data/meta/km_meta.csv", show_col_types = FALSE) %>%
   select(kmid, study_id, scen_code, win, endp_code)
 ipd <- ipd %>% left_join(meta, by = c("kmid", "study_id")) %>%
   filter(endp_code == "DFS", scen_code %in% SCEN_MAIN, win %in% WIN_MAIN)
+# Keep ONE whole KM per study x window x endpoint (largest total sample), exactly as in M1b,
+# so the calculator engine does not double-weight a study that contributes several subgroup curves.
+km_n <- ipd %>% group_by(kmid, study_id, scen_code, win, endp_code) %>%
+  summarise(ntot = n(), .groups = "drop")
+main_km <- km_n %>% group_by(study_id, scen_code, win, endp_code) %>%
+  arrange(desc(ntot), .by_group = TRUE) %>% slice(1) %>% ungroup()
+ipd <- ipd %>% semi_join(main_km, by = c("kmid", "study_id", "scen_code", "win", "endp_code"))
 
 fit_curve <- function(dd) {
   kstud <- n_distinct(dd$study_id); nev <- sum(dd$status)

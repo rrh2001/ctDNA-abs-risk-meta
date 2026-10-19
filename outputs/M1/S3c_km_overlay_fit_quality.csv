@@ -15,10 +15,6 @@
 40-KM3A,low-risk,Lauridsen ED,2026,LARC,postopMRD,DFS,34,5,13,0.01,0.037,0.0035,12.0,ok
 40-KM3B,high-risk,Lauridsen ED,2026,LARC,postopMRD,OS,8,4,26,0.0465,0.1312,0.0085,24.0,ok
 40-KM3B,low-risk,Lauridsen ED,2026,LARC,postopMRD,OS,35,2,10,0.0119,0.0436,0.0061,12.0,ok
-5-KM4A,high-risk,Wang Y,2021,LARC,postopMRD,RFS,78,21,32,0.007,0.0243,0.0003,8.22,ok
-5-KM4A,low-risk,Wang Y,2021,LARC,postopMRD,RFS,41,1,13,0.0109,0.0265,0.0004,8.22,ok
-5-KM-S5C,high-risk,Wang Y,2021,LARC,postopMRD,RFS,23,8,25,0.0235,0.0585,0.0062,8.22,ok
-5-KM-S5C,low-risk,Wang Y,2021,LARC,postopMRD,RFS,95,14,25,0.0092,0.0361,0.0032,8.22,ok
 57-KM2C,high-risk,Tie J,2019,LARC,postopMRD,RFS,19,12,31,0.0309,0.0807,0.0,,ok
 57-KM2C,low-risk,Tie J,2019,LARC,postopMRD,RFS,140,16,24,0.0042,0.0097,0.0,,ok
 57-KM3A,high-risk,Tie J,2019,LARC,postopMRD,RFS,11,7,23,0.0305,0.0592,0.0,,ok
@@ -39,8 +35,8 @@
 57-KM2B,low-risk,Tie J,2019,LARC,postNAC,RFS,132,20,23,0.0021,0.0061,0.0,,ok
 6-KM5A,high-risk,Akiyoshi T,2025,LARC,postNAC,DFS,19,7,18,0.0169,0.0481,0.0,,ok
 6-KM5A,low-risk,Akiyoshi T,2025,LARC,postNAC,DFS,44,3,14,0.022,0.0425,0.0,,ok
-6-KM5B,high-risk,Akiyoshi T,2025,LARC,postNAC,DFS,3,1,10,0.15,0.3383,0.0,,sparse NAR / timing-only deviation
-6-KM5B,low-risk,Akiyoshi T,2025,LARC,postNAC,DFS,60,8,18,0.0082,0.0194,0.0,,ok
+6-KM5B,high-risk,Akiyoshi T,2025,LARC,other,DFS,3,1,10,0.15,0.3383,0.0,,sparse NAR / timing-only deviation
+6-KM5B,low-risk,Akiyoshi T,2025,LARC,other,DFS,60,8,18,0.0082,0.0194,0.0,,ok
 30-KM5a-postop,high-risk,Zhou J,2025,LARC,dynamic,PFS,12,11,41,0.0363,0.0917,0.0116,60.0,ok
 30-KM5a-postop,low-risk,Zhou J,2025,LARC,dynamic,PFS,84,3,10,0.0074,0.0156,0.0086,12.0,ok
 30-KM4i,high-risk,Zhou J,2025,LARC,onTx,PFS,34,15,36,0.0142,0.0373,0.004,24.0,ok
@@ -191,3 +187,5 @@
 56-KM3,low-risk,Evrard C,2025,mCRC,onTx,PFS,24,8,28,0.0303,0.0797,0.0051,6.0,ok
 56-KM4,high-risk,Evrard C,2025,mCRC,onTx,OS,22,11,37,0.0241,0.0683,0.0004,12.0,ok
 56-KM4,low-risk,Evrard C,2025,mCRC,onTx,OS,24,4,15,0.0162,0.0526,0.0011,6.0,ok
+5-KM4C,high-risk,Wang Y,2021,LARC,postNAC,RFS,12,9,30,0.0327,0.0869,0.0053,8.22,ok
+5-KM4C,low-risk,Wang Y,2021,LARC,postNAC,RFS,91,12,24,0.0068,0.0134,0.0035,8.22,ok

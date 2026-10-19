@@ -22,16 +22,17 @@ SET <- list(
 WIN <- list(
   "Pre-operative"                   = "preop",
   "Post-operative MRD (4-12 weeks)" = "postopMRD",
+  "Post-neoadjuvant (pre-surgery)"  = "postNAC",
   "After adjuvant/systemic therapy" = "postACT"
 )
 WIN_FOR_SET <- list(
   MRD  = c("postopMRD", "postACT"),
-  LARC = c("postopMRD"),
+  LARC = c("postopMRD", "postNAC"),
   CRLM = c("preop", "postopMRD", "postACT")
 )
 RED <- "#C0392B"; BLUE <- "#2C3E50"
 
-cell <- function(scen, win) curves %>% filter(scen_code == scen, win == win, endp_code == "DFS")
+cell <- function(scen, window) curves %>% filter(scen_code == scen, win == window, endp_code == "DFS")
 at_t <- function(d, t) {
   d <- d %>% arrange(time_month)
   if (t <= max(d$time_month)) {
@@ -97,22 +98,22 @@ ui <- fluidPage(
           h5("How estimates were built"),
           p("Kaplan-Meier curves from 24 published studies were digitised and reconstructed into
             patient-level data using the Guyot iterative algorithm, with interval-conservation
-            checks (reconstructed numbers at risk exactly match the published tables; 192/192 curves,
-            11,481 reconstructed patients). Absolute risks were pooled with two-stage random-effects
+            checks (reconstructed numbers at risk exactly match the published tables; 190/190 curves,
+            11,297 reconstructed patients). Absolute risks were pooled with two-stage random-effects
             models and refitted as continuous curves using one-stage Royston-Parmar splines."),
           h5("Reliability gate (why only these scenarios are shown)"),
           p("A parameter-simulation grid (320 cells x 500 replicates) and a closed-loop plasmode
             validation on three published appendix individual-level datasets calibrated the
             reconstruction. Acceptance: mean absolute error <= 0.05, relative bias <= 0.10, coverage
-            >= 0.90. Only cells with >=3 independent studies, grade-A curves and complete risk tables
+            between 0.90 and 0.98. Only cells with >=3 independent studies, grade-A curves and complete risk tables
             are exposed. Advanced disease and anti-EGFR rechallenge (<3 studies) are excluded."),
           h5("External calibration"),
           p("Against the published Li 2022 stage III post-chemotherapy cohort, predicted 12-month
             risk was 4.7% vs observed 6.2% (ctDNA-negative) and 62% vs observed 45.5% (ctDNA-positive,
             conservative). The Ogaard advanced-disease cohort was an external anchor, not pooled."),
           h5("Interpretation"),
-          p("Positive ctDNA indicates a markedly elevated, front-loaded risk (~80% of recurrences
-            accrue within 12 months and ~90% within 24 months); published reports place ctDNA
+          p("Positive ctDNA indicates a markedly elevated, front-loaded risk (~75% of recurrences
+            accrue within 12 months and ~95% within 24 months); published reports place ctDNA
             detection a median of ~7-10 months ahead of imaging. Negative ctDNA confers a low but
             non-zero risk. Pre-operative ctDNA in resectable liver metastases showed little
             discrimination and should not be used alone."),

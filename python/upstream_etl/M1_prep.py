@@ -53,10 +53,11 @@ def _cls(t):
         return 'c'
     if re.search(r'not\s*detect|undetected|未检出|不可检测',t): return 0
     if re.search(r'detect|presence|阳性|positive|persistent|emergent|metasta',t): return 1
-    if re.search(r'non[\s\-]?pcr|nonpcr|无清除|non[\s_]?clearance|nonclearance',t): return 1
-    if re.search(r'pcr|clearance|清除',t): return 0
-    if re.search(r'pni[\s\-]*[+＋]',t): return 1
-    if re.search(r'pni[\s\-]*[-\u2013\u2212]',t): return 0
+    # ctDNA clearance（血液ctDNA清除/转阴，如Kotani 3-KM5B）才是ctDNA指标；
+    # 病理指标 pCR/non-pCR（病理完全缓解）与 PNI（神经周围侵犯）不是ctDNA，
+    # 不再映射为阳性/阴性，令其返回 None 并进入"两态映射歧义"排除（Wang 5-KM4A/5-KM-S5C 即属此类）。
+    if re.search(r'non[\s_\-]?clearance|nonclearance|无清除|未清除|未转阴',t): return 1
+    if re.search(r'clearance|清除|转阴',t): return 0
     if re.search(r'negative|absence|阴性|sustainedneg|持续阴|低危',t): return 0
     if re.search(r'positive|阳性|高危',t): return 1
     if re.search(r'≥|>0|high|increase|升高',t): return 1

@@ -118,12 +118,12 @@ b4_y, b4_h = 1240, 300
 box(LX, b4_y, FULLW, b4_h, (235, 240, 245), edge=BLUE, lw=4)
 para(LX + cw, b4_y + 34, FULLW - 2 * cw, [
     ("Studies included in the quantitative synthesis  (n = 24 independent studies)", F_BODYB, BLUE),
-    ("192 reconstructed Kaplan–Meier arms; 11,481 reconstructed patients; 3,068 recurrence events (1,783 ctDNA-positive; 1,285 ctDNA-negative).", F_BODY, INK),
+    ("190 reconstructed Kaplan–Meier arms; 11,297 reconstructed patients; 3,041 recurrence events (1,765 ctDNA-positive; 1,276 ctDNA-negative).", F_BODY, INK),
 ])
 b5_y, b5_h = 1620, 170
 box(LX, b5_y, FULLW, b5_h, "white", edge=BLUE, lw=3)
 para(LX + cw, b5_y + 48, FULLW - 2 * cw, [
-    ("Of these, 13 studies also contributed serial / multi-state curves to the longitudinal trajectory analysis.", F_BODY, INK),
+    ("Of these, 8 studies also contributed serial / multi-state curves to the longitudinal trajectory analysis.", F_BODY, INK),
 ])
 
 # arrows

@@ -64,9 +64,18 @@ for (i in seq_len(nrow(keys))) {
   }
 }
 per <- bind_rows(ps)
-# multiple KMs per window/study: keep the KM with largest n for each study x window x endpoint x state x timepoint, avoiding double counting
-per <- per %>% group_by(study_id, scen_code, win, endp_code, ctdna, tp) %>%
-  arrange(desc(n), .by_group = TRUE) %>% slice(1) %>% ungroup()
+# multiple KMs per window/study: keep ONE whole KM (both ctDNA states together) per study x window x endpoint,
+# choosing the KM with the largest total sample (positive + negative). This keeps the positive and negative
+# arm paired from the SAME KM and prevents cross-KM mixing (e.g. taking the positive arm from one curve and the
+# negative arm from a different pathological comparator). Dedup is at the KM level, not separately per state.
+km_n <- per %>% group_by(kmid, study_id, scen_code, win, endp_code, ctdna) %>%
+  summarise(ns = max(n, na.rm = TRUE), .groups = "drop") %>%
+  group_by(kmid, study_id, scen_code, win, endp_code) %>%
+  summarise(ntot = sum(ns), .groups = "drop")
+main_km <- km_n %>% group_by(study_id, scen_code, win, endp_code) %>%
+  arrange(desc(ntot), .by_group = TRUE) %>% slice(1) %>% ungroup()
+write_csv(km_n, file.path(out_dir, "M1b_km_totalsample.csv"))
+per <- per %>% semi_join(main_km, by = c("kmid", "study_id", "scen_code", "win", "endp_code"))
 write_csv(per, file.path(out_dir, "M1_absrisk_perstudy.csv"))
 
 # ---------- Stage 2: logit random-effects pooling of absolute risk ----------

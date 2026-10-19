@@ -9,7 +9,7 @@ Royston-Parmar fits on **reconstructed patient-level data** from published Kapla
 ctDNA_risk_calculator/
 ├── app.R                      # self-contained Shiny UI + server
 ├── data/
-│   └── continuous_curves.csv  # engine = M1c continuous CIR curves (6 DFS cells)
+│   └── continuous_curves.csv  # engine = M1c continuous CIR curves (7 DFS cells)
 └── README.md
 ```
 
@@ -46,7 +46,7 @@ After the first deploy, subsequent updates are simply `deployApp()`. The app is 
 
 ## Scope, reliability and data statement
 - Only cells with **≥3 independent studies, grade-A curves, complete risk tables** and passing the
-  M4 dual-evidence reliability gate (MAE ≤ 0.05, |relative bias| ≤ 0.10, coverage ≥ 0.90) are exposed.
+  M4 dual-evidence reliability gate (MAE ≤ 0.05, |relative bias| ≤ 0.10, coverage between 0.90 and 0.98) are exposed.
   Advanced-disease and anti-EGFR rechallenge settings (<3 studies) are deliberately excluded.
 - Confidence bands are individual-level (narrower than random-effects CIs); the manuscript's
   two-stage random-effects CIs are the primary between-study uncertainty.

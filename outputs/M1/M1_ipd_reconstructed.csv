@@ -684,243 +684,6 @@ time,status,kmid,curve,ctdna,ctdna_label,study_id,scenario,landmark,endpoint,ev_
 59.64412812,0,40-KM3B,1,0,ctDNA-negative ctDNA-negative,40,LARC_neoadjuvant,L1_early_postop_le1m,OS,E1_<=10
 59.76275208,0,40-KM3B,1,0,ctDNA-negative ctDNA-negative,40,LARC_neoadjuvant,L1_early_postop_le1m,OS,E1_<=10
 59.88137604,0,40-KM3B,1,0,ctDNA-negative ctDNA-negative,40,LARC_neoadjuvant,L1_early_postop_le1m,OS,E1_<=10
-1.898550397,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-3.676936225,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-4.269731502,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-4.691873592,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-5.293650615,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-5.886445891,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-9.982122345,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-10.28750173,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-10.28750173,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-10.64677159,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-10.84975907,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-10.84975907,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-10.84975907,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-11.4371653,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-12.02996057,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-13.21555112,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-14.2798881,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-14.88615599,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-22.59249458,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-27.31561019,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-27.92765207,1,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-15.658077995,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-22.648102834594596,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-22.703711089189188,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-22.759319343783783,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-22.81492759837838,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-22.870535852972974,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-22.926144107567566,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-22.981752362162162,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.037360616756757,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.092968871351353,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.148577125945945,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.20418538054054,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.259793635135136,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.315401889729728,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.371010144324323,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.42661839891892,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.482226653513514,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.537834908108106,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.5934431627027,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.649051417297297,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.704659671891893,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.760267926486485,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.81587618108108,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.871484435675676,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.92709269027027,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.982700944864863,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.03830919945946,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.093917454054054,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.149525708648646,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.20513396324324,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.260742217837837,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.316350472432433,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.371958727027025,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.42756698162162,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.483175236216216,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.53878349081081,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.594391745405403,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-28.162525780952382,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-28.397399491904764,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-28.632273202857142,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-28.867146913809524,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-29.102020624761906,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-29.336894335714288,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-29.571768046666666,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-29.806641757619047,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-30.04151546857143,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-30.27638917952381,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-30.51126289047619,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-30.74613660142857,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-30.981010312380953,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-31.215884023333334,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-31.450757734285716,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-31.685631445238094,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-31.920505156190476,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-32.15537886714286,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-32.390252578095236,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-32.62512628904762,0,5-KM4A,2,1,non-pCR non-pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.61958373,1,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-9.392857142857144,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-10.565714285714286,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-11.73857142857143,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-12.911428571428573,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-14.084285714285715,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-15.257142857142858,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.664384437391302,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.70918514478261,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.753985852173912,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.798786559565215,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.843587266956522,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.888387974347825,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.93318868173913,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-23.977989389130432,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.02279009652174,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.067590803913042,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.112391511304345,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.157192218695652,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.201992926086955,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.24679363347826,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.291594340869565,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.33639504826087,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.381195755652172,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.425996463043475,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.470797170434782,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.515597877826085,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.56039858521739,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-24.605199292608695,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-25.28153846153846,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-25.913076923076922,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-26.544615384615383,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-27.176153846153845,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-27.807692307692307,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-28.439230769230768,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-29.07076923076923,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-29.70230769230769,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-30.333846153846153,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-30.965384615384615,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-31.596923076923076,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-32.22846153846154,0,5-KM4A,1,0,pCR pCR,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E3_21-40
-2.12330819,1,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-4.846579075,1,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-5.145093946,1,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-10.83144183,1,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-10.97620042,1,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-13.39638301,1,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-13.58304802,1,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-14.59968875,1,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-15.514844375,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-17.343333333333334,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-18.256666666666668,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-19.169999999999998,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-20.083333333333332,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-20.996666666666666,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-21.91,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.82333333333333,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.736666666666665,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-25.822857142857142,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-26.995714285714286,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-28.16857142857143,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-29.341428571428573,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-30.514285714285712,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-31.687142857142856,0,5-KM-S5C,2,1,PNI_(+) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-3.833268978,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-5.353234123,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-5.353234123,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-9.506749987,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-9.849797676,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-9.849797676,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-10.35878914,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-10.36700804,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-10.36700804,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-10.4273904,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-15.84299358,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-21.54086291,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-25.93127349,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-28.10886615,1,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-15.940827983333334,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-16.038662386666665,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-16.13649679,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-16.234331193333333,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-16.332165596666666,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-21.600654007884618,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-21.66044510576923,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-21.720236203653847,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-21.780027301538464,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-21.839818399423077,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-21.899609497307694,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-21.95940059519231,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.019191693076923,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.07898279096154,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.138773888846156,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.19856498673077,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.258356084615386,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.3181471825,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.377938280384615,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.437729378269232,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.497520476153845,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.55731157403846,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.617102671923078,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.67689376980769,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.736684867692308,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.796475965576924,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.856267063461537,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.916058161346154,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-22.97584925923077,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.035640357115383,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.095431455,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.155222552884617,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.21501365076923,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.274804748653846,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.334595846538463,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.394386944423076,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.454178042307692,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.51396914019231,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.573760238076922,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.63355133596154,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.693342433846155,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.753133531730768,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.812924629615384,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.8727157275,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.932506825384614,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-23.99229792326923,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-24.052089021153847,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-24.11188011903846,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-24.171671216923077,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-24.231462314807693,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-24.291253412692306,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-24.351044510576923,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-24.410835608461536,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-24.470626706346152,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-24.53041780423077,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-24.590208902115382,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-28.291602067307693,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-28.474337984615385,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-28.657073901923077,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-28.83980981923077,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-29.02254573653846,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-29.205281653846153,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-29.388017571153846,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-29.570753488461538,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-29.75348940576923,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-29.936225323076922,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-30.118961240384614,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-30.30169715769231,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-30.484433075,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-30.667168992307694,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-30.849904909615386,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-31.03264082692308,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-31.21537674423077,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-31.398112661538462,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-31.580848578846155,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-31.763584496153847,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-31.94632041346154,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-32.12905633076923,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-32.31179224807693,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-32.494528165384615,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
-32.677264082692304,0,5-KM-S5C,1,0,PNI_(-) post-opPNIstatus,5,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E1_<=10
 1.688010284,1,57-KM2C,2,1,ctDNA-positive post-opctDNA-positive,57,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E2_11-20
 2.067400896,1,57-KM2C,2,1,ctDNA-positive post-opctDNA-positive,57,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E2_11-20
 3.129694611,1,57-KM2C,2,1,ctDNA-positive post-opctDNA-positive,57,LARC_neoadjuvant,L1_early_postop_le1m,RFS,E2_11-20
@@ -11430,3 +11193,106 @@ time,status,kmid,curve,ctdna,ctdna_label,study_id,scenario,landmark,endpoint,ev_
 36.89498302545454,0,56-KM4,2,0,Decrease cfDNA decrease,56,mCRC_systemic,L6_early_on_treatment_response,OS,E2_11-20
 37.006855903636364,0,56-KM4,2,0,Decrease cfDNA decrease,56,mCRC_systemic,L6_early_on_treatment_response,OS,E2_11-20
 37.11872878181818,0,56-KM4,2,0,Decrease cfDNA decrease,56,mCRC_systemic,L6_early_on_treatment_response,OS,E2_11-20
+2.055706952,1,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+3.994567013,1,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+4.994660281,1,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+6.018340653,1,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+9.90832607,1,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+10.07060535,1,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+11.8490731,1,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+15.79283712,1,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+15.79283712,1,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+16.11141856,0,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+27.386666666666667,0,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+30.12333333333333,0,5-KM4C,2,1,ctDNA-positive T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+3.772848223,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+5.225813913,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+9.540681721,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+9.927112811,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+10.04701825,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+10.17843212,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+10.17843212,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+10.57536941,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+11.30185226,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+13.44573869,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+14.20778364,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+21.47261209,1,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+15.318891820000001,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+21.532562805283018,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+21.592513520566037,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+21.652464235849056,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+21.712414951132075,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+21.772365666415094,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+21.83231638169811,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+21.89226709698113,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+21.95221781226415,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.012168527547168,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.072119242830187,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.132069958113206,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.192020673396225,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.251971388679245,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.311922103962264,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.371872819245283,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.4318235345283,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.491774249811318,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.551724965094337,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.611675680377356,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.671626395660375,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.731577110943395,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.791527826226414,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.851478541509433,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.911429256792452,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+22.97137997207547,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.03133068735849,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.091281402641506,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.151232117924526,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.211182833207545,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.271133548490564,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.331084263773583,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.391034979056602,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.45098569433962,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.51093640962264,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.57088712490566,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.63083784018868,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.6907885554717,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.750739270754714,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.810689986037733,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.870640701320752,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.93059141660377,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+23.99054213188679,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.05049284716981,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.11044356245283,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.17039427773585,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.230344993018868,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.290295708301887,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.350246423584906,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.41019713886792,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.47014785415094,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.53009856943396,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.59004928471698,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+24.95407407407407,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+25.25814814814815,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+25.56222222222222,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+25.866296296296294,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+26.17037037037037,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+26.474444444444444,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+26.778518518518517,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+27.08259259259259,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+27.386666666666667,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+27.69074074074074,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+27.994814814814813,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+28.29888888888889,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+28.602962962962962,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+28.907037037037036,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+29.21111111111111,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+29.515185185185185,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+29.81925925925926,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+30.12333333333333,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+30.427407407407408,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+30.73148148148148,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+31.035555555555554,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+31.339629629629627,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+31.643703703703704,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+31.947777777777777,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+32.25185185185185,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10
+32.555925925925926,0,5-KM4C,1,0,ctDNA-negative T4 after nCRT,5,LARC_neoadjuvant,L4_post_neoadjuvant,RFS,E1_<=10

@@ -17,12 +17,12 @@ CRLM preop     ctDNA0 36m: KM=0.743 | AJ0.5%=0.739 AJ1%=0.736 AJ2%=0.729 AJ3%=0.
 CRLM preop     ctDNA1 12m: KM=0.608 | AJ0.5%=0.607 AJ1%=0.605 AJ2%=0.602 AJ3%=0.600 | d@1%=-0.29pp d@3%=-0.86pp
 CRLM preop     ctDNA1 24m: KM=0.771 | AJ0.5%=0.768 AJ1%=0.765 AJ2%=0.760 AJ3%=0.755 | d@1%=-0.51pp d@3%=-1.53pp
 CRLM preop     ctDNA1 36m: KM=0.816 | AJ0.5%=0.813 AJ1%=0.810 AJ2%=0.803 AJ3%=0.797 | d@1%=-0.62pp d@3%=-1.85pp
-LARC postopMRD ctDNA0 12m: KM=0.042 | AJ0.5%=0.042 AJ1%=0.041 AJ2%=0.041 AJ3%=0.041 | d@1%=-0.03pp d@3%=-0.08pp
-LARC postopMRD ctDNA0 24m: KM=0.095 | AJ0.5%=0.094 AJ1%=0.094 AJ2%=0.093 AJ3%=0.092 | d@1%=-0.11pp d@3%=-0.31pp
-LARC postopMRD ctDNA0 36m: KM=0.136 | AJ0.5%=0.135 AJ1%=0.134 AJ2%=0.132 AJ3%=0.130 | d@1%=-0.21pp d@3%=-0.62pp
-LARC postopMRD ctDNA1 12m: KM=0.282 | AJ0.5%=0.281 AJ1%=0.280 AJ2%=0.279 AJ3%=0.277 | d@1%=-0.17pp d@3%=-0.50pp
-LARC postopMRD ctDNA1 24m: KM=0.366 | AJ0.5%=0.365 AJ1%=0.363 AJ2%=0.361 AJ3%=0.358 | d@1%=-0.28pp d@3%=-0.84pp
-LARC postopMRD ctDNA1 36m: KM=0.399 | AJ0.5%=0.397 AJ1%=0.395 AJ2%=0.392 AJ3%=0.388 | d@1%=-0.36pp d@3%=-1.05pp
+LARC postopMRD ctDNA0 12m: KM=0.027 | AJ0.5%=0.027 AJ1%=0.027 AJ2%=0.027 AJ3%=0.027 | d@1%=-0.02pp d@3%=-0.05pp
+LARC postopMRD ctDNA0 24m: KM=0.093 | AJ0.5%=0.092 AJ1%=0.092 AJ2%=0.091 AJ3%=0.090 | d@1%=-0.11pp d@3%=-0.32pp
+LARC postopMRD ctDNA0 36m: KM=0.128 | AJ0.5%=0.127 AJ1%=0.126 AJ2%=0.124 AJ3%=0.122 | d@1%=-0.20pp d@3%=-0.59pp
+LARC postopMRD ctDNA1 12m: KM=0.480 | AJ0.5%=0.479 AJ1%=0.477 AJ2%=0.475 AJ3%=0.472 | d@1%=-0.28pp d@3%=-0.82pp
+LARC postopMRD ctDNA1 24m: KM=0.573 | AJ0.5%=0.571 AJ1%=0.569 AJ2%=0.564 AJ3%=0.560 | d@1%=-0.42pp d@3%=-1.23pp
+LARC postopMRD ctDNA1 36m: KM=0.573 | AJ0.5%=0.571 AJ1%=0.569 AJ2%=0.564 AJ3%=0.560 | d@1%=-0.42pp d@3%=-1.23pp
 MRD  postACT   ctDNA0 12m: KM=0.047 | AJ0.5%=0.047 AJ1%=0.047 AJ2%=0.046 AJ3%=0.046 | d@1%=-0.04pp d@3%=-0.12pp
 MRD  postACT   ctDNA0 24m: KM=0.129 | AJ0.5%=0.128 AJ1%=0.127 AJ2%=0.126 AJ3%=0.124 | d@1%=-0.16pp d@3%=-0.46pp
 MRD  postACT   ctDNA1 12m: KM=0.644 | AJ0.5%=0.642 AJ1%=0.640 AJ2%=0.636 AJ3%=0.632 | d@1%=-0.40pp d@3%=-1.18pp
@@ -36,16 +36,16 @@ MRD  postopMRD ctDNA1 24m: KM=0.760 | AJ0.5%=0.757 AJ1%=0.754 AJ2%=0.748 AJ3%=0.
 Max |delta| pp at 1%/yr: 0.68 ; at 3%/yr: 2.02
 
 ===== PART2 INTERNAL CALIBRATION (LOO, cluster bootstrap B=1000) =====
-calibration pairs: 139 from 19 studies, 29 comparisons
-apparent(in-sample)      overall   n=139 intercept=-0.093 slope=0.985
-apparent(in-sample)      negative  n= 74 intercept=-0.252 slope=0.883
-apparent(in-sample)      positive  n= 65 intercept=-0.165 slope=1.273
-LOO cross-validated      overall   n=139 intercept=-0.158 slope=0.901
-LOO cross-validated      negative  n= 74 intercept=-0.392 slope=0.778
-LOO cross-validated      positive  n= 65 intercept=0.039 slope=0.968
-LOO bootstrap            overall   n=139 intercept=-0.158 slope=0.901 slope95CI[0.77,1.10] int95CI[-0.58,0.23]
-LOO bootstrap            negative  n= 74 intercept=-0.392 slope=0.778 slope95CI[0.50,1.08] int95CI[-1.08,0.25]
-LOO bootstrap            positive  n= 65 intercept=0.039 slope=0.968 slope95CI[0.58,1.55] int95CI[-0.61,0.47]
+calibration pairs: 135 from 18 studies, 27 comparisons
+apparent(in-sample)      overall   n=135 intercept=-0.073 slope=0.988
+apparent(in-sample)      negative  n= 72 intercept=-0.251 slope=0.883
+apparent(in-sample)      positive  n= 63 intercept=-0.029 slope=1.158
+LOO cross-validated      overall   n=135 intercept=-0.125 slope=0.910
+LOO cross-validated      negative  n= 72 intercept=-0.387 slope=0.778
+LOO cross-validated      positive  n= 63 intercept=0.270 slope=0.830
+LOO bootstrap            overall   n=135 intercept=-0.125 slope=0.910 slope95CI[0.79,1.11] int95CI[-0.57,0.28]
+LOO bootstrap            negative  n= 72 intercept=-0.387 slope=0.778 slope95CI[0.52,1.08] int95CI[-1.00,0.28]
+LOO bootstrap            positive  n= 63 intercept=0.270 slope=0.830 slope95CI[0.54,1.33] int95CI[-0.17,0.52]
 
 ===== PART3 EXTERNAL CALIBRATION =====
 Li2022_postchemo_stageIII ctDNA0 12m: obs=0.062 pred=0.047 O-E=+0.015 E/O=0.76 calib-large(logit)=+0.29

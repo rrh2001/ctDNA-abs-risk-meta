@@ -7,8 +7,6 @@
 14-KM2A,14,Slater S,2024,LARC,postopMRD,RFS,L1_early_postop_le1m,ctDNA detected vs not detected,21,10,122,14,6.013,2.656,13.613,0.0,ML (Breslow),6.5,Cox,1,1,0,-0.078,-7.5,match (published within recon 95% CI),
 40-KM3A,40,Lauridsen ED,2026,LARC,postopMRD,DFS,L1_early_postop_le1m,ctDNA-positive vs negative,8,5,34,5,7.768,2.21,27.302,0.0014,ML (Breslow),,not_reported,,,,,,no published HR,
 40-KM3B,40,Lauridsen ED,2026,LARC,postopMRD,OS,L1_early_postop_le1m,ctDNA-positive vs negative,8,4,35,2,14.762,2.467,88.337,0.0032,ML (Breslow),,not_reported,,,,,,no published HR,
-5-KM4A,5,Wang Y,2021,LARC,postopMRD,RFS,L1_early_postop_le1m,non-pCR vs pCR,78,21,41,1,11.801,1.585,87.84,0.016,ML (Breslow),0.086,Cox,0,0,1,4.922,13622.2,reference-group inverted (reciprocal within CI),source HR uses the inverse reference group (reciprocal matches)
-5-KM-S5C,5,Wang Y,2021,LARC,postopMRD,RFS,L1_early_postop_le1m,PNI(+) vs PNI(-),23,8,95,14,2.751,1.151,6.575,0.0228,ML (Breslow),2.86,Cox,1,1,0,-0.039,-3.8,match (published within recon 95% CI),
 57-KM2C,57,Tie J,2019,LARC,postopMRD,RFS,L1_early_postop_le1m,ctDNA-positive vs negative,19,12,140,16,10.933,4.969,24.056,0.0,ML (Breslow),13.0,Cox,1,1,0,-0.173,-15.9,match (published within recon 95% CI),
 57-KM3A,57,Tie J,2019,LARC,postopMRD,RFS,L1_early_postop_le1m,ctDNA-positive vs negative,11,7,91,12,9.255,3.49,24.546,0.0,ML (Breslow),10.0,Cox,1,1,0,-0.077,-7.4,match (published within recon 95% CI),
 57-KM3B,57,Tie J,2019,LARC,postopMRD,RFS,L1_early_postop_le1m,ctDNA-positive vs negative,8,6,49,4,31.032,6.146,156.694,0.0,ML (Breslow),22.0,Cox,1,1,0,0.344,41.1,match (published within recon 95% CI),
@@ -19,7 +17,7 @@
 40-KM-S1B,40,Lauridsen ED,2026,LARC,postNAC,OS,L4_post_neoadjuvant,ctDNA-positive vs negative,18,1,33,5,0.382,0.044,3.276,0.3799,ML (Breslow),,not_reported,,,,,,no published HR,
 57-KM2B,57,Tie J,2019,LARC,postNAC,RFS,L4_post_neoadjuvant,ctDNA-positive vs negative,12,6,132,20,5.397,2.151,13.541,0.0003,ML (Breslow),6.6,Cox,1,1,0,-0.201,-18.2,match (published within recon 95% CI),
 6-KM5A,6,Akiyoshi T,2025,LARC,postNAC,DFS,L4_post_neoadjuvant,ctDNA-positive vs negative,19,7,44,3,5.513,1.42,21.408,0.0136,ML (Breslow),6.7,Cox,1,1,0,-0.195,-17.7,match (published within recon 95% CI),
-6-KM5B,6,Akiyoshi T,2025,LARC,postNAC,DFS,L4_post_neoadjuvant,ctDNA-positive vs negative,3,1,60,8,7.223,0.827,63.078,0.0737,ML (Breslow),10.2,Cox,1,1,0,-0.345,-29.2,match (published within recon 95% CI),
+6-KM5B,6,Akiyoshi T,2025,LARC,other,DFS,T4_after_surgery_or_NOM,"ctDNA-positive vs negative (post-treatment T4, mixed surgery/NOM)",3,1,60,8,7.223,0.827,63.078,0.0737,ML (Breslow),10.2,Cox,1,1,0,-0.345,-29.2,match (published within recon 95% CI),
 30-KM5a-postop,30,Zhou J,2025,LARC,dynamic,PFS,L5_longitudinal_surveillance,post-op longitudinal surveillancepositive vs negative,12,11,84,3,53.414,15.273,186.806,0.0,ridge fallback (penalizer=0.01),33.67,Cox,1,1,0,0.461,58.6,match (published within recon 95% CI),
 30-KM4i,30,Zhou J,2025,LARC,onTx,PFS,L6_early_on_treatment_response,C2 vs C1,34,15,69,5,8.464,3.064,23.381,0.0,ML (Breslow),8.03,Cox,1,1,0,0.053,5.4,match (published within recon 95% CI),
 30-KM4j,30,Zhou J,2025,LARC,onTx,OS,L6_early_on_treatment_response,C2 vs C1,34,7,69,5,3.583,1.116,11.502,0.032,ML (Breslow),6.31,Cox,1,1,0,-0.566,-43.2,match (published within recon 95% CI),
@@ -95,3 +93,4 @@
 48-KM4B,48,Reinert T,2022,CRLM,other,RFS,L8_other_nonlandmark,ctDNA-positive vs negative,15,15,22,12,3.776,1.662,8.577,0.0015,ML (Breslow),3.5,Cox,1,1,0,0.076,7.9,match (published within recon 95% CI),
 56-KM3,56,Evrard C,2025,mCRC,onTx,PFS,L6_early_on_treatment_response,Increase vs Decrease,22,11,24,8,1.717,0.69,4.272,0.2455,ML (Breslow),1.89,Cox,1,1,0,-0.096,-9.2,match (published within recon 95% CI),
 56-KM4,56,Evrard C,2025,mCRC,onTx,OS,L6_early_on_treatment_response,Increase vs Decrease,22,11,24,4,3.021,0.961,9.497,0.0585,ML (Breslow),2.47,Cox,1,1,0,0.201,22.3,match (published within recon 95% CI),
+5-KM4C,5,Wang Y,2021,LARC,postNAC,RFS,L4_post_neoadjuvant,ctDNA-positive vs negative,12,9,91,12,9.511,3.962,22.835,0.0,ML (Breslow),9.29,Cox,1,1,0,0.024,2.4,match (published within recon 95% CI),

@@ -61,3 +61,7 @@ R/debug_*.R
 # --- Pre-redigitization snapshots (superseded by current outputs; kept locally) ---
 data/meta/backup_redigitize/
 outputs/M1/backup_redigitize/
+
+# --- Shiny local deployment config and ad-hoc verification scripts (local only) ---
+app/rsconnect/
+app/verify_*.R
