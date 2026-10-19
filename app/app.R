@@ -89,6 +89,7 @@ ui <- fluidPage(
               )
             )
           ),
+          htmlOutput("kflag"),
           plotOutput("curve_plot", height = "430px"),
           h5("Landmark cumulative incidence"),
           tableOutput("landmark_tbl")
@@ -177,6 +178,19 @@ server <- function(input, output, session) {
     d <- if (input$status == 1) pos() else neg()
     a <- at_t(d, input$horizon)
     paste("95% CI", fmtci(a["lo"], a["hi"]))
+  })
+
+  output$kflag <- renderUI({
+    kv <- suppressWarnings(min(as.integer(unique(dat()$k_studies)), na.rm = TRUE))
+    if (!is.finite(kv)) return(NULL)
+    if (kv <= 3) {
+      div(style = "margin:4px 0 10px 0; padding:9px 11px; background:#FDF2E9; border:1px solid #E59866; border-radius:4px; font-size:12.5px; color:#7E5109;",
+          strong(sprintf("Small-sample cell (k = %d studies). ", kv)),
+          "Estimates are highly imprecise and have no between-study prediction interval. For research discussion only; this is not an individual prediction and should not guide treatment or surveillance decisions.")
+    } else {
+      div(style = "margin:4px 0 10px 0; padding:9px 11px; background:#F4F6F7; border:1px solid #D5DBDB; border-radius:4px; font-size:12.5px; color:#566573;",
+          sprintf("Pooled from %d independent studies. Population-level estimate reflecting between-study heterogeneity; not an individual prediction. Research and educational use only.", kv))
+    }
   })
 
   output$contrast_tbl <- renderTable({
